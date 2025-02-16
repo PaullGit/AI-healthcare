@@ -1,0 +1,101 @@
+Year,Age,Role,City,Education,Experience,Salary
+2018,47,Helpdeskmanager,Apeldoorn,HBO,25,4950
+2018,42,Applicatiebeheerder,Almelo,HAVO,10,4086
+2018,42,BI Consultant,,MBO,25,4400
+2018,39,Software Engineer,Amsterdam,MBO,6,3600
+2018,38,IT Consultant,Mierlo,HBO,15,4900
+2018,38,Product Owner,Randstad,HBO,4,4650
+2018,38,Software Engineer,,HBO,11,3350
+2018,38,Product Owner,Rotterdam,WO,17,3900
+2018,37,Software Engineer,Groningen,HBO,9,3800
+2018,37,Test Automation Engineer,Amsterdam,HBO,0,2497
+2018,36,Lead Developer,Arnhem,,16,4100
+2018,36,BI Consultant,Randstad,HBO,12,5250
+2018,36,Operations Analyst,Tessenderlo,HBO,5,3193
+2018,36,System Administrator,de Meern,MBO,10,2700
+2018,36,Web Developer,,WO,3,2100
+2018,35,Infrastructure Architect,Randstad,HBO,15,5200
+2018,35,Front-end Developer,Rotterdam,HBO,18,3600
+2018,35,Project manager web development,Amersfoort,HBO,11,4000
+2018,34,Cloud Engineer,,HBO,15,5150
+2018,34,Serviceleider,Noord Nederland,,11,4417
+2018,33,Applicatie specialist,Roermond,HBO,11,4800
+2018,33,Lead Developer,Amsterdam,HBO,8,5850
+2018,33,System Administrator,Zuid-Holland,MBO,15,5150
+2018,33,Technische Consultant,,HBO,3,3300
+2018,32,Integration consultant,Randstad,HBO,8,10000
+2018,32,Product Owner,Rotterdam,HBO,12,3550
+2018,32,Software Engineer,Randstad,WO,1,2750
+2018,32,R&D Engineer,Rotterdam,WO,5,5700
+2018,31,IT Manager,Arnhem,HBO,9,5450
+2018,31,Software Engineer,Utrecht,HBO,8,4550
+2018,31,Software Engineer,Utrecht,WO,5,3920
+2018,31,Systems Development Engineer,Den Haag,MBO,10,5683
+2018,31,Software Engineer,Randstad,HBO,8,4800
+2018,30,ICT Specialist,Limburg,HBO,6,4050
+2018,30,System Administrator,Amsterdam,WO,3,3000
+2018,30,Service level manager,'s Hertogenbosch,MBO,11,3835
+2018,30,IT Consultant,Barneveld,MBO,3,2550
+2018,30,Software Engineer,Den Haag,HBO,0,2600
+2018,30,System Administrator,Gelderland,MBO,1,2793
+2018,30,Manager IT,Noord-Holland,WO,10,6100
+2018,30,Software Engineer,Den Haag,HBO,0,2600
+2018,30,Software Engineer,,HBO,10,4225
+2018,29,Software Engineer,Utrecht,HBO,0,2300
+2018,29,Software Engineer,Eindhoven,WO,3,4400
+2018,29,Support Engineer,Tilburg,MBO,0,3300
+2018,29,Support Engineer,Noord-Holland,MBO,10,2550
+2018,29,Projectmanager,Randstad,WO,3,3850
+2018,29,Test Automation Engineer,Rotterdam,HBO,3,3211
+2018,29,Software Engineer,Eindhoven,WO,3,4500
+2018,28,Test Automation Engineer,Limburg,HBO,8,2250
+2018,28,Mobile Developer,,HBO,2,2823
+2018,28,IT consultant,Utrecht,HBO,3,2500
+2018,28,Microsoft Consultant,Randstad,HBO,2,3300
+2018,28,Product Owner,Randstad,WO,3,3500
+2018,28,Software Engineer,Den Haag,HBO,5,5150
+2018,28,Information Analyst,Eindhoven,HBO,2,3800
+2018,28,Cloud Engineer,Kantoor,HBO,8,4000
+2018,28,Software Engineer,Noord Brabant,HBO,7,3750
+2018,27,Front-end Developer,Noord-Brabant,HBO,2,2600
+2018,27,Project manager,,HBO,6,3400
+2018,27,System Administrator,,HBO,5,2350
+2018,27,Front-end Developer,Zuid-Holland,HBO,6,3267
+2018,27,IT Consultant,,WO,1,3250
+2018,27,Software Engineer,,HBO,0,2750
+2018,27,Project Manager,Noord-Holland,WO,5,4440
+2018,27,Software Engineer,Ulvenhout,HBO,1,2500
+2018,27,System Administrator,'s Hertogenbosch,MBO,5,2500
+2018,27,Project Manager,,HBO,2,2560
+2018,26,Support Engineer,Apeldoorn,HBO,1,2300
+2018,26,IT Consultant,Utrecht,WO,1,2550
+2018,26,Software Engineer,Limburg,HBO,2,2568
+2018,26,Software Engineer,,,6,5850
+2018,26,Software Engineer,,HBO,1,2700
+2018,26,UX/UI Designer,Randstad,HBO,6,3300
+2018,26,Security Officer,Den Haag,HBO,3,3500
+2018,26,IT consultant,Utrecht,WO,1,2150
+2018,26,Business Analyst,,WO,2,2950
+2018,25,Software Engineer,,HBO,1,2400
+2018,25,Support Engineer,Friesland,MBO,3,2250
+2018,25,IT Consultant,,MBO,5,3740
+2018,25,Data Analyst,Amsterdam,WO,1,3596
+2018,25,Support Engineer,Utrecht,MBO,5,2500
+2018,25,Software Engineer,Zwolle,HBO,1,2191
+2018,25,Consultant,,HBO,2,4000
+2018,25,Functioneel Beheerder,Overijssel,MBO,3,2298
+2018,25,Bioinformatician,Wagningen,HBO,4,3550
+2018,24,Web Developer,Groningen,MBO,2,1800
+2018,24,Business Analyst,Amsterdam,WO,0,2700
+2018,24,Embedded Engineer,Eindhoven,HBO,3,2860
+2018,24,Test Engineer,Utrecht,HBO,0,2440
+2018,24,Software Engineer,Groningen,MBO,1,2000
+2018,24,Network Administrator,,MBO,3,3000
+2018,24,Security officer,Utrecht,HBO,0,2400
+2018,24,Software Engineer,Almere,HBO,2,3060
+2018,24,Software Engineer,,,1,2609
+2018,24,Software Engineer,Zuid Holland,HBO,2,2413
+2018,23,Servicedeskmedewerker,Randstad,MBO,3,2200
+2018,23,Software Engineer,Friesland,MBO,5,3250
+2018,23,Infrastructure Specialist,,HBO,0,2200
+2018,23,Web Developer,Nijmegen,MBO,2,1850
