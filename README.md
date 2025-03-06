@@ -4,8 +4,8 @@
 ### Week 3
 - **No** Written assignment
 - Python assignment about Data Manipulation and Preparation with Pandas
-  - ([file](Week3/M2_A3_group09.ipynb))
-  - ([docs](https://hrnl-my.sharepoint.com/:w:/g/personal/bashb_hr_nl/ERpiZzlnlNFLoqSgeT0QrNcBgZ-N98mts79gEXtTh7O8vw?e=eK1Lvu))
+  - ([assignment](https://hrnl-my.sharepoint.com/:w:/g/personal/bashb_hr_nl/ERpiZzlnlNFLoqSgeT0QrNcBgZ-N98mts79gEXtTh7O8vw?e=eK1Lvu))
+  - ([code](Week3/M2_A3_group09.ipynb))
 
 ### Week 2
 - Written assignemnt about ethics in Data Collection and Informed Consent ([docs](https://docs.google.com/document/d/1JJTpOJz2BEc5ZirJc1h1b3L1h4v02o03lrR-_IYxDgU/edit?tab=t.0))
