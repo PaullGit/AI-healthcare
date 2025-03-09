@@ -1,0 +1,1079 @@
+Year,Age,Role,City,Education,Experience,Salary,Annual Salary,Education Level,Year of Birth,Seniority,City Category,Salary Bracket
+2018,47,Helpdeskmanager,Apeldoorn,HBO,25.0,4950.0,59400.0,Medium,1971,Senior,Non-Urban,Medium
+2018,42,Applicatiebeheerder,Almelo,HAVO,10.0,4086.0,49032.0,,1976,Mid-level,Non-Urban,Medium
+2018,42,BI Consultant,,MBO,25.0,4400.0,52800.0,Low,1976,Senior,Non-Urban,Medium
+2018,39,Software Engineer,Amsterdam,MBO,6.0,3600.0,43200.0,Low,1979,Mid-level,Urban,Medium
+2018,38,IT Consultant,Mierlo,HBO,15.0,4900.0,58800.0,Medium,1980,Senior,Non-Urban,Medium
+2018,38,Product Owner,Randstad,HBO,4.0,4650.0,55800.0,Medium,1980,Junior,Urban,Medium
+2018,38,Software Engineer,,HBO,11.0,3350.0,40200.0,Medium,1980,Senior,Non-Urban,Medium
+2018,38,Product Owner,Rotterdam,WO,17.0,3900.0,46800.0,High,1980,Senior,Non-Urban,Medium
+2018,37,Software Engineer,Groningen,HBO,9.0,3800.0,45600.0,Medium,1981,Mid-level,Non-Urban,Medium
+2018,37,Test Automation Engineer,Amsterdam,HBO,0.0,2497.0,29964.0,Medium,1981,Junior,Urban,Low
+2018,36,Lead Developer,Arnhem,Unknown,16.0,4100.0,49200.0,Low,1982,Senior,Non-Urban,Medium
+2018,36,BI Consultant,Randstad,HBO,12.0,5250.0,63000.0,Medium,1982,Senior,Urban,High
+2018,36,Operations Analyst,Tessenderlo,HBO,5.0,3193.0,38316.0,Medium,1982,Junior,Non-Urban,Medium
+2018,36,System Administrator,de Meern,MBO,10.0,2700.0,32400.0,Low,1982,Mid-level,Non-Urban,Low
+2018,36,Web Developer,,WO,3.0,2100.0,25200.0,High,1982,Junior,Non-Urban,Low
+2018,35,Infrastructure Architect,Randstad,HBO,15.0,5200.0,62400.0,Medium,1983,Senior,Urban,High
+2018,35,Front-end Developer,Rotterdam,HBO,18.0,3600.0,43200.0,Medium,1983,Senior,Non-Urban,Medium
+2018,35,Project manager web development,Amersfoort,HBO,11.0,4000.0,48000.0,Medium,1983,Senior,Non-Urban,Medium
+2018,34,Cloud Engineer,,HBO,15.0,5150.0,61800.0,Medium,1984,Senior,Non-Urban,High
+2018,34,Serviceleider,Noord Nederland,Unknown,11.0,4417.0,53004.0,Low,1984,Senior,Non-Urban,Medium
+2018,33,Applicatie specialist,Roermond,HBO,11.0,4800.0,57600.0,Medium,1985,Senior,Non-Urban,Medium
+2018,33,Lead Developer,Amsterdam,HBO,8.0,5850.0,70200.0,Medium,1985,Mid-level,Urban,High
+2018,33,System Administrator,Zuid-Holland,MBO,15.0,5150.0,61800.0,Low,1985,Senior,Non-Urban,High
+2018,33,Technische Consultant,,HBO,3.0,3300.0,39600.0,Medium,1985,Junior,Non-Urban,Medium
+2018,32,Product Owner,Rotterdam,HBO,12.0,3550.0,42600.0,Medium,1986,Senior,Non-Urban,Medium
+2018,32,Software Engineer,Randstad,WO,1.0,2750.0,33000.0,High,1986,Junior,Urban,Low
+2018,32,R&D Engineer,Rotterdam,WO,5.0,5700.0,68400.0,High,1986,Junior,Non-Urban,High
+2018,31,IT Manager,Arnhem,HBO,9.0,5450.0,65400.0,Medium,1987,Mid-level,Non-Urban,High
+2018,31,Software Engineer,Utrecht,HBO,8.0,4550.0,54600.0,Medium,1987,Mid-level,Urban,Medium
+2018,31,Software Engineer,Utrecht,WO,5.0,3920.0,47040.0,High,1987,Junior,Urban,Medium
+2018,31,Systems Development Engineer,Den Haag,MBO,10.0,5683.0,68196.0,Low,1987,Mid-level,Non-Urban,High
+2018,31,Software Engineer,Randstad,HBO,8.0,4800.0,57600.0,Medium,1987,Mid-level,Urban,Medium
+2018,30,ICT Specialist,Limburg,HBO,6.0,4050.0,48600.0,Medium,1988,Mid-level,Non-Urban,Medium
+2018,30,System Administrator,Amsterdam,WO,3.0,3000.0,36000.0,High,1988,Junior,Urban,Low
+2018,30,Service level manager,'s Hertogenbosch,MBO,11.0,3835.0,46020.0,Low,1988,Senior,Non-Urban,Medium
+2018,30,IT Consultant,Barneveld,MBO,3.0,2550.0,30600.0,Low,1988,Junior,Non-Urban,Low
+2018,30,Software Engineer,Den Haag,HBO,0.0,2600.0,31200.0,Medium,1988,Junior,Non-Urban,Low
+2018,30,System Administrator,Gelderland,MBO,1.0,2793.0,33516.0,Low,1988,Junior,Non-Urban,Low
+2018,30,Manager IT,Noord-Holland,WO,10.0,6100.0,73200.0,High,1988,Mid-level,Non-Urban,High
+2018,30,Software Engineer,,HBO,10.0,4225.0,50700.0,Medium,1988,Mid-level,Non-Urban,Medium
+2018,29,Software Engineer,Utrecht,HBO,0.0,2300.0,27600.0,Medium,1989,Junior,Urban,Low
+2018,29,Software Engineer,Eindhoven,WO,3.0,4400.0,52800.0,High,1989,Junior,Non-Urban,Medium
+2018,29,Support Engineer,Tilburg,MBO,0.0,3300.0,39600.0,Low,1989,Junior,Non-Urban,Medium
+2018,29,Support Engineer,Noord-Holland,MBO,10.0,2550.0,30600.0,Low,1989,Mid-level,Non-Urban,Low
+2018,29,Projectmanager,Randstad,WO,3.0,3850.0,46200.0,High,1989,Junior,Urban,Medium
+2018,29,Test Automation Engineer,Rotterdam,HBO,3.0,3211.0,38532.0,Medium,1989,Junior,Non-Urban,Medium
+2018,29,Software Engineer,Eindhoven,WO,3.0,4500.0,54000.0,High,1989,Junior,Non-Urban,Medium
+2018,28,Test Automation Engineer,Limburg,HBO,8.0,2250.0,27000.0,Medium,1990,Mid-level,Non-Urban,Low
+2018,28,Mobile Developer,,HBO,2.0,2823.0,33876.0,Medium,1990,Junior,Non-Urban,Low
+2018,28,IT consultant,Utrecht,HBO,3.0,2500.0,30000.0,Medium,1990,Junior,Urban,Low
+2018,28,Microsoft Consultant,Randstad,HBO,2.0,3300.0,39600.0,Medium,1990,Junior,Urban,Medium
+2018,28,Product Owner,Randstad,WO,3.0,3500.0,42000.0,High,1990,Junior,Urban,Medium
+2018,28,Software Engineer,Den Haag,HBO,5.0,5150.0,61800.0,Medium,1990,Junior,Non-Urban,High
+2018,28,Information Analyst,Eindhoven,HBO,2.0,3800.0,45600.0,Medium,1990,Junior,Non-Urban,Medium
+2018,28,Cloud Engineer,Kantoor,HBO,8.0,4000.0,48000.0,Medium,1990,Mid-level,Non-Urban,Medium
+2018,28,Software Engineer,Noord Brabant,HBO,7.0,3750.0,45000.0,Medium,1990,Mid-level,Non-Urban,Medium
+2018,27,Front-end Developer,Noord-Brabant,HBO,2.0,2600.0,31200.0,Medium,1991,Junior,Non-Urban,Low
+2018,27,Project manager,,HBO,6.0,3400.0,40800.0,Medium,1991,Mid-level,Non-Urban,Medium
+2018,27,System Administrator,,HBO,5.0,2350.0,28200.0,Medium,1991,Junior,Non-Urban,Low
+2018,27,Front-end Developer,Zuid-Holland,HBO,6.0,3267.0,39204.0,Medium,1991,Mid-level,Non-Urban,Medium
+2018,27,IT Consultant,,WO,1.0,3250.0,39000.0,High,1991,Junior,Non-Urban,Medium
+2018,27,Software Engineer,,HBO,0.0,2750.0,33000.0,Medium,1991,Junior,Non-Urban,Low
+2018,27,Project Manager,Noord-Holland,WO,5.0,4440.0,53280.0,High,1991,Junior,Non-Urban,Medium
+2018,27,Software Engineer,Ulvenhout,HBO,1.0,2500.0,30000.0,Medium,1991,Junior,Non-Urban,Low
+2018,27,System Administrator,'s Hertogenbosch,MBO,5.0,2500.0,30000.0,Low,1991,Junior,Non-Urban,Low
+2018,27,Project Manager,,HBO,2.0,2560.0,30720.0,Medium,1991,Junior,Non-Urban,Low
+2018,26,Support Engineer,Apeldoorn,HBO,1.0,2300.0,27600.0,Medium,1992,Junior,Non-Urban,Low
+2018,26,IT Consultant,Utrecht,WO,1.0,2550.0,30600.0,High,1992,Junior,Urban,Low
+2018,26,Software Engineer,Limburg,HBO,2.0,2568.0,30816.0,Medium,1992,Junior,Non-Urban,Low
+2018,26,Software Engineer,,Unknown,6.0,5850.0,70200.0,Low,1992,Mid-level,Non-Urban,High
+2018,26,Software Engineer,,HBO,1.0,2700.0,32400.0,Medium,1992,Junior,Non-Urban,Low
+2018,26,UX/UI Designer,Randstad,HBO,6.0,3300.0,39600.0,Medium,1992,Mid-level,Urban,Medium
+2018,26,Security Officer,Den Haag,HBO,3.0,3500.0,42000.0,Medium,1992,Junior,Non-Urban,Medium
+2018,26,IT consultant,Utrecht,WO,1.0,2150.0,25800.0,High,1992,Junior,Urban,Low
+2018,26,Business Analyst,,WO,2.0,2950.0,35400.0,High,1992,Junior,Non-Urban,Low
+2018,25,Software Engineer,,HBO,1.0,2400.0,28800.0,Medium,1993,Junior,Non-Urban,Low
+2018,25,Support Engineer,Friesland,MBO,3.0,2250.0,27000.0,Low,1993,Junior,Non-Urban,Low
+2018,25,IT Consultant,,MBO,5.0,3740.0,44880.0,Low,1993,Junior,Non-Urban,Medium
+2018,25,Data Analyst,Amsterdam,WO,1.0,3596.0,43152.0,High,1993,Junior,Urban,Medium
+2018,25,Support Engineer,Utrecht,MBO,5.0,2500.0,30000.0,Low,1993,Junior,Urban,Low
+2018,25,Software Engineer,Zwolle,HBO,1.0,2191.0,26292.0,Medium,1993,Junior,Non-Urban,Low
+2018,25,Consultant,,HBO,2.0,4000.0,48000.0,Medium,1993,Junior,Non-Urban,Medium
+2018,25,Functioneel Beheerder,Overijssel,MBO,3.0,2298.0,27576.0,Low,1993,Junior,Non-Urban,Low
+2018,25,Bioinformatician,Wagningen,HBO,4.0,3550.0,42600.0,Medium,1993,Junior,Non-Urban,Medium
+2018,24,Web Developer,Groningen,MBO,2.0,1800.0,21600.0,Low,1994,Junior,Non-Urban,Low
+2018,24,Business Analyst,Amsterdam,WO,0.0,2700.0,32400.0,High,1994,Junior,Urban,Low
+2018,24,Embedded Engineer,Eindhoven,HBO,3.0,2860.0,34320.0,Medium,1994,Junior,Non-Urban,Low
+2018,24,Test Engineer,Utrecht,HBO,0.0,2440.0,29280.0,Medium,1994,Junior,Urban,Low
+2018,24,Software Engineer,Groningen,MBO,1.0,2000.0,24000.0,Low,1994,Junior,Non-Urban,Low
+2018,24,Network Administrator,,MBO,3.0,3000.0,36000.0,Low,1994,Junior,Non-Urban,Low
+2018,24,Security officer,Utrecht,HBO,0.0,2400.0,28800.0,Medium,1994,Junior,Urban,Low
+2018,24,Software Engineer,Almere,HBO,2.0,3060.0,36720.0,Medium,1994,Junior,Non-Urban,Medium
+2018,24,Software Engineer,,Unknown,1.0,2609.0,31308.0,Low,1994,Junior,Non-Urban,Low
+2018,24,Software Engineer,Zuid Holland,HBO,2.0,2413.0,28956.0,Medium,1994,Junior,Non-Urban,Low
+2018,23,Servicedeskmedewerker,Randstad,MBO,3.0,2200.0,26400.0,Low,1995,Junior,Urban,Low
+2018,23,Software Engineer,Friesland,MBO,5.0,3250.0,39000.0,Low,1995,Junior,Non-Urban,Medium
+2018,23,Infrastructure Specialist,,HBO,0.0,2200.0,26400.0,Medium,1995,Junior,Non-Urban,Low
+2018,23,Web Developer,Nijmegen,MBO,2.0,1850.0,22200.0,Low,1995,Junior,Non-Urban,Low
+2018,23,IT-Engineer,Zuid-Holland,HBO,3.0,3700.0,44400.0,Medium,1995,Junior,Non-Urban,Medium
+2018,23,Web Developer,Almere,MBO,5.0,2625.0,31500.0,Low,1995,Junior,Non-Urban,Low
+2018,23,Software Engineer,Gelderland,HBO,0.0,2500.0,30000.0,Medium,1995,Junior,Non-Urban,Low
+2018,22,Support Engineer,Brabant,MBO,0.0,1700.0,20400.0,Low,1996,Junior,Non-Urban,Low
+2018,22,Software Engineer,Eindhoven,HBO,1.0,2560.0,30720.0,Medium,1996,Junior,Non-Urban,Low
+2018,22,Helpdeskmedewerker,,MBO,2.0,1403.0,16836.0,Low,1996,Junior,Non-Urban,Low
+2018,21,ICT Beheerder,,MBO,0.0,1640.0,19680.0,Low,1997,Junior,Non-Urban,Low
+2018,21,Cloud Engineer,Utrecht,MBO,2.0,2300.0,27600.0,Low,1997,Junior,Urban,Low
+2018,21,Servicedeskmedewerker,Tilburg,MBO,0.0,1850.0,22200.0,Low,1997,Junior,Non-Urban,Low
+2018,21,Servicedeskmedewerker,Zuid Holland,MBO,0.0,1700.0,20400.0,Low,1997,Junior,Non-Urban,Low
+2018,21,Servicedeskmedewerker,Noorden,MBO,0.0,2000.0,24000.0,Low,1997,Junior,Non-Urban,Low
+2018,21,Medewerker ICT,Zuid Holland,MBO,2.0,2225.0,26700.0,Low,1997,Junior,Non-Urban,Low
+2018,20,Helpdeskmedewerker,,HAVO,0.0,2575.0,30900.0,,1998,Junior,Non-Urban,Low
+2019,51,Support Engineer,'s Hertogenbosch,WO,21.0,2900.0,34800.0,High,1968,Senior,Non-Urban,Low
+2019,47,Software Engineer,,HIO,2.0,4950.0,59400.0,,1972,Junior,Non-Urban,Medium
+2019,45,Test Automation Engineer,Zuid-Holland,Unknown,19.0,4200.0,50400.0,Low,1974,Senior,Non-Urban,Medium
+2019,43,Linux Engineer,Haarlem,HBO,22.0,4200.0,50400.0,Medium,1976,Senior,Non-Urban,Medium
+2019,43,Software Engineer,Deventer,WO,12.0,4300.0,51600.0,High,1976,Senior,Non-Urban,Medium
+2019,42,Lead Developer,Schiphol,HBO,17.0,5900.0,70800.0,Medium,1977,Senior,Non-Urban,High
+2019,42,IT-coördinator,Noord-Brabant,HBO,15.0,3109.0,37308.0,Medium,1977,Senior,Non-Urban,Medium
+2019,41,Virtual Reality Developer,Rotterdam,HBO,17.0,4300.0,51600.0,Medium,1978,Senior,Non-Urban,Medium
+2019,41,Solution Architect,,MBO,0.0,5100.0,61200.0,Low,1978,Junior,Non-Urban,High
+2019,41,Low Code Developer,,HBO,18.0,4120.0,49440.0,Medium,1978,Senior,Non-Urban,Medium
+2019,40,IT Specialist,Overijssel,HBO,4.0,2750.0,33000.0,Medium,1979,Junior,Non-Urban,Low
+2019,39,ERP Consultant,Zuid Nederland,HBO,16.0,5898.0,70776.0,Medium,1980,Senior,Non-Urban,High
+2019,39,Safety Engineer,Oss,Unknown,14.0,3511.1834695731154,42134.20163487738,Low,1980,Senior,Non-Urban,Medium
+2019,39,Software Engineer,Eindhoven/Helmond,HBO,16.0,4900.0,58800.0,Medium,1980,Senior,Non-Urban,Medium
+2019,39,System Administrator,Amstelveen,Unknown,13.0,3900.0,46800.0,Low,1980,Senior,Non-Urban,Medium
+2019,39,Software Engineer,Eindhoven/Helmond,HBO,16.0,5025.0,60300.0,Medium,1980,Senior,Non-Urban,High
+2019,38,Test Automation Engineer,,HBO,14.0,3900.0,46800.0,Medium,1981,Senior,Non-Urban,Medium
+2019,38,Projectmanager,vogelenzang,WO,11.0,5450.0,65400.0,High,1981,Senior,Non-Urban,High
+2019,38,Software Engineer,Haarlem,HBO,16.0,5600.0,67200.0,Medium,1981,Senior,Non-Urban,High
+2019,38,IT Engineer,,HBO,17.0,3600.0,43200.0,Medium,1981,Senior,Non-Urban,Medium
+2019,38,Lead Developer,'s Hertogenbosch,HBO,14.0,4715.0,56580.0,Medium,1981,Senior,Non-Urban,Medium
+2019,38,Web Developer,Utrecht,MBO,15.0,2533.0,30396.0,Low,1981,Senior,Urban,Low
+2019,38,Network Administrator,Limburg,HBO,12.0,5313.0,63756.0,Medium,1981,Senior,Non-Urban,High
+2019,38,System Administrator,Venlo,MBO,17.0,2380.0,28560.0,Low,1981,Senior,Non-Urban,Low
+2019,37,Test Automation Engineer,Amsterdam,HBO,1.0,3312.0,39744.0,Medium,1982,Junior,Urban,Medium
+2019,37,Specialist Infrastructuur,Heerlen,HBO,8.0,3511.1834695731154,42134.20163487738,Medium,1982,Mid-level,Non-Urban,Medium
+2019,37,BI Consultant,,HBO,14.0,5250.0,63000.0,Medium,1982,Senior,Non-Urban,High
+2019,37,Software Architect,,WO,11.0,5760.0,69120.0,High,1982,Senior,Non-Urban,High
+2019,37,Online Marketing Manager,Amersfoort,VWO,12.0,4874.0,58488.0,,1982,Senior,Non-Urban,Medium
+2019,37,Lead Developer,Utrecht,WO,9.0,4685.0,56220.0,High,1982,Mid-level,Urban,Medium
+2019,37,Software Engineer,,MBO,14.0,3650.0,43800.0,Low,1982,Senior,Non-Urban,Medium
+2019,37,Werkplekbeheerder,,MBO,11.0,3300.0,39600.0,Low,1982,Senior,Non-Urban,Medium
+2019,36,Cloud Engineer,,MBO,17.0,4600.0,55200.0,Low,1983,Senior,Non-Urban,Medium
+2019,36,System Administrator,,MBO,12.0,3875.0,46500.0,Low,1983,Senior,Non-Urban,Medium
+2019,36,Test Automation Engineer,Amsterdam,Unknown,9.0,4515.0,54180.0,Low,1983,Mid-level,Urban,Medium
+2019,36,Software Engineer,Consultancy,WO,8.0,3150.0,37800.0,High,1983,Mid-level,Non-Urban,Medium
+2019,36,Coördinator Integriteit,Haarlem,WO,2.0,5500.0,66000.0,High,1983,Junior,Non-Urban,High
+2019,36,Test Manager,Utrecht,HBO,12.0,4750.0,57000.0,Medium,1983,Senior,Urban,Medium
+2019,36,System Administrator,Rond Alkmaar,Unknown,2.0,2880.0,34560.0,Low,1983,Junior,Non-Urban,Low
+2019,36,Lead Developer,,HBO,13.0,5750.0,69000.0,Medium,1983,Senior,Non-Urban,High
+2019,36,System Administrator,Rond Alkmaar,Unknown,3.0,3048.0,36576.0,Low,1983,Junior,Non-Urban,Medium
+2019,35,Test Automation Engineer,Amsterdam,HBO,10.0,4515.0,54180.0,Medium,1984,Mid-level,Urban,Medium
+2019,35,Software Architect,Heerenveen,MBO,8.0,4800.0,57600.0,Low,1984,Mid-level,Non-Urban,Medium
+2019,35,System Engineer,Utrecht,HBO,2.0,4650.0,55800.0,Medium,1984,Junior,Urban,Medium
+2019,35,Software Engineer,Amsterdam,Mavo,17.0,4700.0,56400.0,Low,1984,Senior,Urban,Medium
+2019,35,ICT Consultant,,MBO,16.0,2850.0,34200.0,Low,1984,Senior,Non-Urban,Low
+2019,35,System Administrator,Noord-Brabant,MBO,12.0,4200.0,50400.0,Low,1984,Senior,Non-Urban,Medium
+2019,35,System Administrator,Hoofddorp,MBO,14.0,2559.0,30708.0,Low,1984,Senior,Non-Urban,Low
+2019,35,Network Administrator,Randstad,HBO,11.0,5200.0,62400.0,Medium,1984,Senior,Urban,High
+2019,35,Presales consultant,Rotterdam,HBO,9.0,3971.0,47652.0,Medium,1984,Mid-level,Non-Urban,Medium
+2019,35,System Administrator,Amsterdam,Unknown,0.0,2400.0,28800.0,Low,1984,Junior,Urban,Low
+2019,35,Servicedeskmedewerker,Den Haag,MBOo 3,11.0,3240.0,38880.0,,1984,Senior,Non-Urban,Medium
+2019,35,Cloud Engineer,Amsterdam,MBO,16.0,3900.0,46800.0,Low,1984,Senior,Urban,Medium
+2019,35,Servicemanager ICT,Utrecht,HBO,12.0,5121.0,61452.0,Medium,1984,Senior,Urban,High
+2019,35,Servicedeskmedewerker,Zuid-Limburg,MBO,16.0,2600.0,31200.0,Low,1984,Senior,Non-Urban,Low
+2019,35,Front-end Developer,Amsterdam,HBO,15.0,2878.0,34536.0,Medium,1984,Senior,Urban,Low
+2019,34,Support Engineer,Randstad,VWO,8.0,2500.0,30000.0,,1985,Mid-level,Urban,Low
+2019,34,Consultant,,MBO,2.0,3250.0,39000.0,Low,1985,Junior,Non-Urban,Medium
+2019,34,Development en project manager,Rijswijk,HBO,12.0,5841.0,70092.0,Medium,1985,Senior,Non-Urban,High
+2019,34,Functioneel Beheerder,Amsterdam,HBO,7.0,3950.0,47400.0,Medium,1985,Mid-level,Urban,Medium
+2019,34,Applicatiebeheerder,Noord Brabant,Unknown,12.0,4100.0,49200.0,Low,1985,Senior,Non-Urban,Medium
+2019,34,System Administrator,dokkum,MBO,11.0,2500.0,30000.0,Low,1985,Senior,Non-Urban,Low
+2019,34,Servicedeskmedewerker,Friesland,MBO,12.0,2005.0,24060.0,Low,1985,Senior,Non-Urban,Low
+2019,34,Microsoft Consultant,,HBO,5.0,3400.0,40800.0,Medium,1985,Junior,Non-Urban,Medium
+2019,34,Hardware Engineer,,HBO,9.0,3511.1834695731154,42134.20163487738,Medium,1985,Mid-level,Non-Urban,Medium
+2019,34,System Administrator,,HBO,9.0,3800.0,45600.0,Medium,1985,Mid-level,Non-Urban,Medium
+2019,34,IT Auditor,Utrecht,WO,10.0,5409.0,64908.0,High,1985,Mid-level,Urban,High
+2019,34,BI Developer,Utrecht,HAVO,10.0,5500.0,66000.0,,1985,Mid-level,Urban,High
+2019,33,Software Engineer,Rotterdam,WO,7.0,3650.0,43800.0,High,1986,Mid-level,Non-Urban,Medium
+2019,33,System Administrator,Rotterdam,MBO,9.0,2595.0,31140.0,Low,1986,Mid-level,Non-Urban,Low
+2019,33,Security Officer,,WO,6.0,4320.0,51840.0,High,1986,Mid-level,Non-Urban,Medium
+2019,33,Consultant,Randstad,HBO,8.0,4520.0,54240.0,Medium,1986,Mid-level,Urban,Medium
+2019,33,Test Automation Engineer,,HBO,11.0,4272.0,51264.0,Medium,1986,Senior,Non-Urban,Medium
+2019,33,Software Engineer,Limburg,HBO,2.0,2550.0,30600.0,Medium,1986,Junior,Non-Urban,Low
+2019,33,On-Site Technical Field Service Engineer,Delft,Unknown,17.0,4300.0,51600.0,Low,1986,Senior,Non-Urban,Medium
+2019,33,System Engineer,NB,MBO,12.0,4400.0,52800.0,Low,1986,Senior,Non-Urban,Medium
+2019,33,Back-up specialist,,HBO,9.0,4229.0,50748.0,Medium,1986,Mid-level,Non-Urban,Medium
+2019,33,Cyber Security Specialist,Amsterdam,VWO,8.0,4700.0,56400.0,,1986,Mid-level,Urban,Medium
+2019,33,Business Analyst,Schiphol-Rijk,VWO,14.0,5340.0,64080.0,,1986,Senior,Non-Urban,High
+2019,33,Servicedeskmedewerker,,HBO,5.0,3511.1834695731154,42134.20163487738,Medium,1986,Junior,Non-Urban,Medium
+2019,33,Cloud Engineer,,HBO,12.0,4600.0,55200.0,Medium,1986,Senior,Non-Urban,Medium
+2019,33,Projectmanager MKB,Zuid-Holland,MBO,14.0,3308.0,39696.0,Low,1986,Senior,Non-Urban,Medium
+2019,33,Network Administrator,Zuid-Holland,MBO,12.0,4000.0,48000.0,Low,1986,Senior,Non-Urban,Medium
+2019,33,System Engineer,Noord-Holland,MBO,9.0,2850.0,34200.0,Low,1986,Mid-level,Non-Urban,Low
+2019,33,Software Engineer,Utrecht,HBO,10.0,3805.0,45660.0,Medium,1986,Mid-level,Urban,Medium
+2019,33,DevOps Engineer,Overijssel,MBO,9.0,3675.0,44100.0,Low,1986,Mid-level,Non-Urban,Medium
+2019,33,R&D Engineer,Rotterdam,WO,6.0,6150.0,73800.0,High,1986,Mid-level,Non-Urban,High
+2019,32,System Engineer,Noord-Brabant,MBO,12.0,4410.0,52920.0,Low,1987,Senior,Non-Urban,Medium
+2019,32,Technisch Consultant,Groningen,HBO,6.0,3030.0,36360.0,Medium,1987,Mid-level,Non-Urban,Medium
+2019,32,Software Engineer,Utrecht,HBO,8.0,3511.1834695731154,42134.20163487738,Medium,1987,Mid-level,Urban,Medium
+2019,32,BI Developer,Noord-Limburg,HBO,6.0,3350.0,40200.0,Medium,1987,Mid-level,Non-Urban,Medium
+2019,32,Business Analyst,Schiphol-Rijk,VWO,13.0,4852.0,58224.0,,1987,Senior,Non-Urban,Medium
+2019,32,Front-end Developer,Utrecht,MBO,10.0,3400.0,40800.0,Low,1987,Mid-level,Urban,Medium
+2019,32,System Administrator,Noord-Holland,MBO,9.0,2850.0,34200.0,Low,1987,Mid-level,Non-Urban,Low
+2019,32,Lead Developer,Randstad,HBO,8.0,3619.0,43428.0,Medium,1987,Mid-level,Urban,Medium
+2019,32,Software Engineer,,HBO,11.0,5800.0,69600.0,Medium,1987,Senior,Non-Urban,High
+2019,32,Business Analyst,Schiphol,WO,7.0,5313.0,63756.0,High,1987,Mid-level,Non-Urban,High
+2019,32,Software Engineer,Verschilt,WO,1.0,2800.0,33600.0,High,1987,Junior,Non-Urban,Low
+2019,32,ICT Specialist,Zuid-Limburg,HBO,8.0,3511.1834695731154,42134.20163487738,Medium,1987,Mid-level,Non-Urban,Medium
+2019,32,Software Engineer,Overijssel,HBO,12.0,4250.0,51000.0,Medium,1987,Senior,Non-Urban,Medium
+2019,32,Software Engineer,Utrecht,WO,2.0,2500.0,30000.0,High,1987,Junior,Urban,Low
+2019,32,Cloud Engineer,,MBO,10.0,3075.0,36900.0,Low,1987,Mid-level,Non-Urban,Medium
+2019,32,Lead Developer,zwijndrecht,MBO,13.0,3472.0,41664.0,Low,1987,Senior,Non-Urban,Medium
+2019,32,Test Automation Engineer,,Unknown,4.0,3400.0,40800.0,Low,1987,Junior,Non-Urban,Medium
+2019,32,Cloud Engineer,Utrecht,WO,6.0,4200.0,50400.0,High,1987,Mid-level,Urban,Medium
+2019,32,Software Engineer,Rotterdam,HBO,8.0,3600.0,43200.0,Medium,1987,Mid-level,Non-Urban,Medium
+2019,32,UX/UI Designer,Utrecht,MBO,2.0,2018.0,24216.0,Low,1987,Junior,Urban,Low
+2019,32,Software Engineer,Eindhoven,HBO,7.0,3207.0,38484.0,Medium,1987,Mid-level,Non-Urban,Medium
+2019,32,Product Manager,Utrecht,HBO,8.0,5500.0,66000.0,Medium,1987,Mid-level,Urban,High
+2019,31,Front-end Developer,Amsterdam,HBO,8.0,4179.0,50148.0,Medium,1988,Mid-level,Urban,Medium
+2019,31,QHSE Manager,Tilburg,HBO,6.0,4016.0,48192.0,Medium,1988,Mid-level,Non-Urban,Medium
+2019,31,Test Automation Engineer,Utrecht,HBO,3.0,3511.1834695731154,42134.20163487738,Medium,1988,Junior,Urban,Medium
+2019,31,Support Engineer,Eindhoven,MBO,15.0,4300.0,51600.0,Low,1988,Senior,Non-Urban,Medium
+2019,31,Software Designer,,HBO,4.0,2800.0,33600.0,Medium,1988,Junior,Non-Urban,Low
+2019,31,Front-end Developer,Amsterdam,WO,5.0,4000.0,48000.0,High,1988,Junior,Urban,Medium
+2019,31,Software Engineer,Den Haag,HBO,10.0,5800.0,69600.0,Medium,1988,Mid-level,Non-Urban,High
+2019,31,Software Engineer,Apeldoorn,HBO,4.0,3667.0,44004.0,Medium,1988,Junior,Non-Urban,Medium
+2019,31,Software Engineer,Amsterdam,HBO,4.0,3600.0,43200.0,Medium,1988,Junior,Urban,Medium
+2019,31,Software Engineer,(Zuid) Limburg,HBO,7.0,3000.0,36000.0,Medium,1988,Mid-level,Non-Urban,Low
+2019,31,Assistent supervisor,,MBO,11.0,3511.1834695731154,42134.20163487738,Low,1988,Senior,Non-Urban,Medium
+2019,31,Projectleider,Maastricht,WO,6.0,3514.0,42168.0,High,1988,Mid-level,Non-Urban,Medium
+2019,31,Network Administrator,Utrecht,MBO,1.0,3511.1834695731154,42134.20163487738,Low,1988,Junior,Urban,Medium
+2019,31,Consultant,,HBO,6.0,2675.0,32100.0,Medium,1988,Mid-level,Non-Urban,Low
+2019,31,Network Administrator,Gelderland,HBO,2.0,3452.0,41424.0,Medium,1988,Junior,Non-Urban,Medium
+2019,31,IT Consultant,Arnhem,HBO,12.0,4600.0,55200.0,Medium,1988,Senior,Non-Urban,Medium
+2019,31,Software Engineer,Zwolle,HBO,5.0,2600.0,31200.0,Medium,1988,Junior,Non-Urban,Low
+2019,31,Software Engineer,,MBO,9.0,4750.0,57000.0,Low,1988,Mid-level,Non-Urban,Medium
+2019,31,System Engineering,Eindhoven,WO,6.0,4250.0,51000.0,High,1988,Mid-level,Non-Urban,Medium
+2019,30,Software Architect,Goes,HBO,9.0,4363.0,52356.0,Medium,1989,Mid-level,Non-Urban,Medium
+2019,30,Front-end Developer,Noord-Brabant,Unknown,7.0,2700.0,32400.0,Low,1989,Mid-level,Non-Urban,Low
+2019,30,Software Engineer,,MBO,9.0,4750.0,57000.0,Low,1989,Mid-level,Non-Urban,Medium
+2019,30,IT Manager,Noord-Holland,WO,10.0,6100.0,73200.0,High,1989,Mid-level,Non-Urban,High
+2019,30,System Engineer,Den Haag,MBO,10.0,3600.0,43200.0,Low,1989,Mid-level,Non-Urban,Medium
+2019,30,System Engineer,Den Haag,MBO,10.0,3500.0,42000.0,Low,1989,Mid-level,Non-Urban,Medium
+2019,30,Applicatiebeheerder,,WO,1.0,3227.0,38724.0,High,1989,Junior,Non-Urban,Medium
+2019,30,Cloud Engineer,Overijssel,HBO,8.0,3511.1834695731154,42134.20163487738,Medium,1989,Mid-level,Non-Urban,Medium
+2019,30,IT Business Analyst,Overijssel,WO,4.0,3850.0,46200.0,High,1989,Junior,Non-Urban,Medium
+2019,30,Test Automation Engineer,Noord-Brabant,HBO,4.0,3200.0,38400.0,Medium,1989,Junior,Non-Urban,Medium
+2019,30,System Engineer,Den Haag,MBO,10.0,4500.0,54000.0,Low,1989,Mid-level,Non-Urban,Medium
+2019,30,Software Engineer,Amsterdam,WO,2.0,3100.0,37200.0,High,1989,Junior,Urban,Medium
+2019,30,Helpdeskmedewerker,Friesland,MBO,6.0,2400.0,28800.0,Low,1989,Mid-level,Non-Urban,Low
+2019,30,Front-end Developer,Zwijndrecht,VMBO,1.0,2100.0,25200.0,,1989,Junior,Non-Urban,Low
+2019,30,Test Automation Engineer,Gelderland,HBO,3.0,3200.0,38400.0,Medium,1989,Junior,Non-Urban,Medium
+2019,30,IT Consultant,,MBO,9.0,3710.0,44520.0,Low,1989,Mid-level,Non-Urban,Medium
+2019,30,VDI Engineer,Amsterdam,MBO,12.0,4000.0,48000.0,Low,1989,Senior,Urban,Medium
+2019,30,Spplicatiebeheerder,Terneuzen,MBO,9.0,3275.0,39300.0,Low,1989,Mid-level,Non-Urban,Medium
+2019,30,IT Auditor,Utrecht,WO,1.0,2725.0,32700.0,High,1989,Junior,Urban,Low
+2019,30,Test Automation Engineer,,HBO,4.0,3450.0,41400.0,Medium,1989,Junior,Non-Urban,Medium
+2019,30,Support Engineer,Zuid-Limburg,HBO,6.0,2900.0,34800.0,Medium,1989,Mid-level,Non-Urban,Low
+2019,30,Data Scientist,Amsterdam,HBO,1.0,2900.0,34800.0,Medium,1989,Junior,Urban,Low
+2019,30,System Administrator,Dordrecht,MBO,5.0,2600.0,31200.0,Low,1989,Junior,Non-Urban,Low
+2019,30,Mobile Developer,,HBO,4.0,3521.0,42252.0,Medium,1989,Junior,Non-Urban,Medium
+2019,30,Software Engineer,Utrecht,HBO,1.0,2850.0,34200.0,Medium,1989,Junior,Urban,Low
+2019,30,Database Administrator,Utrecht,MBO,14.0,4300.0,51600.0,Low,1989,Senior,Urban,Medium
+2019,30,DevOps Engineer,,MBO,8.0,3450.0,41400.0,Low,1989,Mid-level,Non-Urban,Medium
+2019,29,Support Engineer,Noord-Holland,MBO,10.0,2550.0,30600.0,Low,1990,Mid-level,Non-Urban,Low
+2019,29,Functioneel Beheerder,Leiden,HBO,3.0,2550.0,30600.0,Medium,1990,Junior,Non-Urban,Low
+2019,29,System Administrator,Noord-Brabant,HBO,4.0,3200.0,38400.0,Medium,1990,Junior,Non-Urban,Medium
+2019,29,Online IT consultant,Enschede,HBO,2.0,3100.0,37200.0,Medium,1990,Junior,Non-Urban,Medium
+2019,29,Cloud Engineer,Randstad,Unknown,5.0,3200.0,38400.0,Low,1990,Junior,Urban,Medium
+2019,29,Software Engineer,Apeldoorn,HBO,3.0,2950.0,35400.0,Medium,1990,Junior,Non-Urban,Low
+2019,29,Werkplekbeheerder,Gelderland,MBO,1.0,2500.0,30000.0,Low,1990,Junior,Non-Urban,Low
+2019,29,Mobile Developer,,HBO,3.0,3130.0,37560.0,Medium,1990,Junior,Non-Urban,Medium
+2019,29,Hardware Engineer,Zuid-Holland,HBO,6.0,3900.0,46800.0,Medium,1990,Mid-level,Non-Urban,Medium
+2019,29,Network Administrator,Amsterdam,MBO,5.0,3125.0,37500.0,Low,1990,Junior,Urban,Medium
+2019,29,Software Engineer,Utrecht,Unknown,4.0,4600.0,55200.0,Low,1990,Junior,Urban,Medium
+2019,29,Data Engineer,Amsterdam,HBO,3.0,3200.0,38400.0,Medium,1990,Junior,Urban,Medium
+2019,29,Support Engineer,,Unknown,6.0,3511.1834695731154,42134.20163487738,Low,1990,Mid-level,Non-Urban,Medium
+2019,29,Pre-sales consultant,,WO,5.0,3700.0,44400.0,High,1990,Junior,Non-Urban,Medium
+2019,29,Front-end Developer,,HBO,4.0,2950.0,35400.0,Medium,1990,Junior,Non-Urban,Low
+2019,29,System Administrator,Amsterdam,MBO,7.0,3465.0,41580.0,Low,1990,Mid-level,Urban,Medium
+2019,29,Software Engineer,Barendrecht,HBO,6.0,3100.0,37200.0,Medium,1990,Mid-level,Non-Urban,Medium
+2019,29,Software Engineer,Utrecht,HBO,4.0,3000.0,36000.0,Medium,1990,Junior,Urban,Low
+2019,29,Solution Engineer,Randstad,WO,5.0,3800.0,45600.0,High,1990,Junior,Urban,Medium
+2019,29,Software Engineer,Utrecht,HBO,5.0,4378.0,52536.0,Medium,1990,Junior,Urban,Medium
+2019,29,ERP Consultant,Eindhoven,HBO,5.0,3850.0,46200.0,Medium,1990,Junior,Non-Urban,Medium
+2019,29,Web Developer,,HBO,4.0,2349.0,28188.0,Medium,1990,Junior,Non-Urban,Low
+2019,29,Software Engineer,Noord Limburg,HBO,7.0,3800.0,45600.0,Medium,1990,Mid-level,Non-Urban,Medium
+2019,29,BI Consultant,,HBO,4.0,4200.0,50400.0,Medium,1990,Junior,Non-Urban,Medium
+2019,29,System Engineering,Noord-Holland,MBO,4.0,3555.0,42660.0,Low,1990,Junior,Non-Urban,Medium
+2019,29,BI Analyst,Eindhoven,HBO,4.0,2200.0,26400.0,Medium,1990,Junior,Non-Urban,Low
+2019,29,Software Engineer,Overijssel,HBO,3.0,3002.0,36024.0,Medium,1990,Junior,Non-Urban,Medium
+2019,29,Data scientist,Utrecht,Unknown,0.0,3400.0,40800.0,Low,1990,Junior,Urban,Medium
+2019,29,Web Developer,Overijssel,MBO,9.0,2800.0,33600.0,Low,1990,Mid-level,Non-Urban,Low
+2019,29,Mobile Developer,Omg. Arnhem,HBO,3.0,3700.0,44400.0,Medium,1990,Junior,Non-Urban,Medium
+2019,29,Support Engineer,Utrecht,MBO,8.0,3800.0,45600.0,Low,1990,Mid-level,Urban,Medium
+2019,28,Linux Engineer,,Havo,8.0,3800.0,45600.0,,1991,Mid-level,Non-Urban,Medium
+2019,28,Support Engineer,Eindhoven,MBO,6.0,1950.0,23400.0,Low,1991,Mid-level,Non-Urban,Low
+2019,28,Product Owner,Randstad,HBO,1.0,2350.0,28200.0,Medium,1991,Junior,Urban,Low
+2019,28,Applicatiebeheerder,Amersfoort,Unknown,2.0,2200.0,26400.0,Low,1991,Junior,Non-Urban,Low
+2019,28,Security Officer,Brabant,MBO,8.0,3100.0,37200.0,Low,1991,Mid-level,Non-Urban,Medium
+2019,28,Software Engineer,,HBO,3.0,2700.0,32400.0,Medium,1991,Junior,Non-Urban,Low
+2019,28,System Administrator,Noord-Holland,MBO,3.0,2250.0,27000.0,Low,1991,Junior,Non-Urban,Low
+2019,28,Lead Developer,Zoetermeer,MBO,8.0,3600.0,43200.0,Low,1991,Mid-level,Non-Urban,Medium
+2019,28,Front-end Developer,'s Hertogenbosch,HBO,3.0,2850.0,34200.0,Medium,1991,Junior,Non-Urban,Low
+2019,28,Servicedeskmedewerker,Almere,MBO,6.0,1900.0,22800.0,Low,1991,Mid-level,Non-Urban,Low
+2019,28,IT Consultant,Utrecht,HBO,1.0,2600.0,31200.0,Medium,1991,Junior,Urban,Low
+2019,28,Software Engineer,Best,MBO,0.0,2200.0,26400.0,Low,1991,Junior,Non-Urban,Low
+2019,28,Software Engineer,Den Haag,HBO,5.0,5500.0,66000.0,Medium,1991,Junior,Non-Urban,High
+2019,28,Software Engineer,Utrecht,WO,3.0,2950.0,35400.0,High,1991,Junior,Urban,Low
+2019,28,Applicatiebeheerder,,HBO,2.0,2700.0,32400.0,Medium,1991,Junior,Non-Urban,Low
+2019,28,DevOps Engineer,Purmerend,HBO,2.0,3600.0,43200.0,Medium,1991,Junior,Non-Urban,Medium
+2019,28,Infrastructure Consultant,Utrecht,HBO,1.0,2700.0,32400.0,Medium,1991,Junior,Urban,Low
+2019,28,Lead Developer,Amsterdam,WO,2.0,3000.0,36000.0,High,1991,Junior,Urban,Low
+2019,28,IT Consultant,Randstad,WO,3.0,4150.0,49800.0,High,1991,Junior,Urban,Medium
+2019,28,Helpdeskmedewerker,,MBO,3.0,1200.0,14400.0,Low,1991,Junior,Non-Urban,Low
+2019,28,Manager Servicedesk,Utrecht,MBO,6.0,2550.0,30600.0,Low,1991,Mid-level,Urban,Low
+2019,28,System Administrator,,MBO,5.0,3200.0,38400.0,Low,1991,Junior,Non-Urban,Medium
+2019,28,Front-end Developer,Amsterdam,HBO,6.0,3500.0,42000.0,Medium,1991,Mid-level,Urban,Medium
+2019,28,Software Engineer,Amsterdam,WO,2.0,2250.0,27000.0,High,1991,Junior,Urban,Low
+2019,28,IT Consultant,Utrecht,HBO,4.0,2569.0,30828.0,Medium,1991,Junior,Urban,Low
+2019,28,Servicedeskmedewerker,Utrecht,MBO,5.0,2830.0,33960.0,Low,1991,Junior,Urban,Low
+2019,28,Front-end Developer,Breda,HBO,3.0,2600.0,31200.0,Medium,1991,Junior,Non-Urban,Low
+2019,28,Front-end Developer,Heerhugowaard,Unknown,3.0,1360.0,16320.0,Low,1991,Junior,Non-Urban,Low
+2019,28,Cloud Engineer,Drenthe,HBO,8.0,4000.0,48000.0,Medium,1991,Mid-level,Non-Urban,Medium
+2019,28,Software Engineer,,WO,4.0,4200.0,50400.0,High,1991,Junior,Non-Urban,Medium
+2019,28,Data steward,Randstad,WO,2.0,3300.0,39600.0,High,1991,Junior,Urban,Medium
+2019,28,Front-end Developer,Utrecht,HBO,9.0,3750.0,45000.0,Medium,1991,Mid-level,Urban,Medium
+2019,28,Data Science Consultant,Randstad,WO,0.0,3500.0,42000.0,High,1991,Junior,Urban,Medium
+2019,28,Software Engineer,Limburg,WO,5.0,4400.0,52800.0,High,1991,Junior,Non-Urban,Medium
+2019,28,IT Engineer,,MBO,5.0,2600.0,31200.0,Low,1991,Junior,Non-Urban,Low
+2019,28,Front-end Developer,Overijssel,MBO,6.0,2100.0,25200.0,Low,1991,Mid-level,Non-Urban,Low
+2019,28,Software Engineer,Utrecht,WO,2.0,3070.0,36840.0,High,1991,Junior,Urban,Medium
+2019,28,System Administrator,,MBO,5.0,2600.0,31200.0,Low,1991,Junior,Non-Urban,Low
+2019,28,Applicatiebeheerder,Delft,MBO,5.0,2825.0,33900.0,Low,1991,Junior,Non-Urban,Low
+2019,28,Software Engineer,,Unknown,1.0,2600.0,31200.0,Low,1991,Junior,Non-Urban,Low
+2019,28,System Administrator,,MBO,6.0,2950.0,35400.0,Low,1991,Mid-level,Non-Urban,Low
+2019,28,Software Engineer,Amersfoort,MBO,10.0,4240.0,50880.0,Low,1991,Mid-level,Non-Urban,Medium
+2019,28,Data Engineer,Randstad,WO,1.0,4250.0,51000.0,High,1991,Junior,Urban,Medium
+2019,28,System Administrator,,MBO,10.0,2750.0,33000.0,Low,1991,Mid-level,Non-Urban,Low
+2019,28,Compiler Engineer,Utrecht,WO,2.0,3100.0,37200.0,High,1991,Junior,Urban,Medium
+2019,27,System Administrator,,MBO,4.0,3200.0,38400.0,Low,1992,Junior,Non-Urban,Medium
+2019,27,Software Engineer,Eindhoven,HBO,1.0,2045.0,24540.0,Medium,1992,Junior,Non-Urban,Low
+2019,27,Network Administrator,Randstand,MBO,10.0,4500.0,54000.0,Low,1992,Mid-level,Non-Urban,Medium
+2019,27,Servicedeskmedewerker,Flevoland,MBO,10.0,1800.0,21600.0,Low,1992,Mid-level,Non-Urban,Low
+2019,27,Technical Service Engineer,,HBO,6.0,2500.0,30000.0,Medium,1992,Mid-level,Non-Urban,Low
+2019,27,Test Automation Engineer,Alkmaar,WO,2.0,3600.0,43200.0,High,1992,Junior,Non-Urban,Medium
+2019,27,Software Engineer,,HBO,3.0,2200.0,26400.0,Medium,1992,Junior,Non-Urban,Low
+2019,27,Service Engineer,Eindhoven,MBO,7.0,1900.0,22800.0,Low,1992,Mid-level,Non-Urban,Low
+2019,27,InformatieAnalyst,Zwolle,HBO,2.0,2750.0,33000.0,Medium,1992,Junior,Non-Urban,Low
+2019,27,Servicedeskmedewerker,,HBO,3.0,2550.0,30600.0,Medium,1992,Junior,Non-Urban,Low
+2019,27,Helpdeskmedewerker,Almere,HBO,5.0,2750.0,33000.0,Medium,1992,Junior,Non-Urban,Low
+2019,27,Software Engineer,Eindhoven,HBO,2.0,2250.0,27000.0,Medium,1992,Junior,Non-Urban,Low
+2019,27,Software Engineer,Rotterdam,HBO,5.0,3633.0,43596.0,Medium,1992,Junior,Non-Urban,Medium
+2019,27,System Administrator,Nieuwegein,MBO,6.0,4100.0,49200.0,Low,1992,Mid-level,Non-Urban,Medium
+2019,27,Software Engineer,,HBO,5.0,2635.0,31620.0,Medium,1992,Junior,Non-Urban,Low
+2019,27,Manager Servicedesk,Eindhoven,HBO,3.0,3333.0,39996.0,Medium,1992,Junior,Non-Urban,Medium
+2019,27,Software Engineer,Zuid-Holland,HBO,5.0,3300.0,39600.0,Medium,1992,Junior,Non-Urban,Medium
+2019,27,Servicedeskmedewerker,Amsterdam,MBO,3.0,2100.0,25200.0,Low,1992,Junior,Urban,Low
+2019,27,Software Engineer,Amstelveen,HBO,0.0,3000.0,36000.0,Medium,1992,Junior,Non-Urban,Low
+2019,27,BI Consultant,Amsterdam,HBO,4.0,3250.0,39000.0,Medium,1992,Junior,Urban,Medium
+2019,27,IT Auditor,Randstad,WO,3.0,3000.0,36000.0,High,1992,Junior,Urban,Low
+2019,27,BI Developer,Zuid-Holland,HBO,2.0,3450.0,41400.0,Medium,1992,Junior,Non-Urban,Medium
+2019,27,Security Officer,Den Haag,HBO,3.0,3850.0,46200.0,Medium,1992,Junior,Non-Urban,Medium
+2019,27,Software Engineer,Zwolle,HBO,4.0,3400.0,40800.0,Medium,1992,Junior,Non-Urban,Medium
+2019,27,Software Engineer,Zwolle,HBO,4.0,3500.0,42000.0,Medium,1992,Junior,Non-Urban,Medium
+2019,27,Software Engineer,Amsterdam,WO,4.0,3850.0,46200.0,High,1992,Junior,Urban,Medium
+2019,27,Operations Manager,Amsterdam,WO,4.0,5006.0,60072.0,High,1992,Junior,Urban,High
+2019,27,Software Engineer,Arnhem,MBO,4.0,2500.0,30000.0,Low,1992,Junior,Non-Urban,Low
+2019,27,Data Analyst,Eindhoven,WO,3.0,3650.0,43800.0,High,1992,Junior,Non-Urban,Medium
+2019,27,Test Automation Engineer,,HBO,3.0,3300.0,39600.0,Medium,1992,Junior,Non-Urban,Medium
+2019,27,Software Engineer,Groningen,WO,1.0,4000.0,48000.0,High,1992,Junior,Non-Urban,Medium
+2019,27,Software Engineer,Utrecht,WO,2.0,3150.0,37800.0,High,1992,Junior,Urban,Medium
+2019,27,Front-end Developer,Zuid-Holland,HBO,7.0,3675.0,44100.0,Medium,1992,Mid-level,Non-Urban,Medium
+2019,27,Cloud Engineer,,MBO,7.0,3680.0,44160.0,Low,1992,Mid-level,Non-Urban,Medium
+2019,27,Analytics consultant,,Unknown,0.0,2700.0,32400.0,Low,1992,Junior,Non-Urban,Low
+2019,27,Network Administrator,Schiphol,HBO,3.0,2750.0,33000.0,Medium,1992,Junior,Non-Urban,Low
+2019,27,IT-consulant,Utrecht,WO,2.0,2140.0,25680.0,High,1992,Junior,Urban,Low
+2019,27,System Administrator,Noord-Brabant,MBO,4.0,2508.0,30096.0,Low,1992,Junior,Non-Urban,Low
+2019,27,Software Engineer,Zoetermeer,HBO,2.0,2840.0,34080.0,Medium,1992,Junior,Non-Urban,Low
+2019,27,Business Analyst,Rotterdam,HBO,2.0,3800.0,45600.0,Medium,1992,Junior,Non-Urban,Medium
+2019,27,Cybersecurity Consultant,Amsterdam,HBO,1.0,2800.0,33600.0,Medium,1992,Junior,Urban,Low
+2019,27,Test Automation Engineer,Noord Brabant,HBO,3.0,4311.0,51732.0,Medium,1992,Junior,Non-Urban,Medium
+2019,27,Support Engineer,Rotterdam,MBO,6.0,2550.0,30600.0,Low,1992,Mid-level,Non-Urban,Low
+2019,27,Software Engineer,Leiden,HBO,3.0,2560.0,30720.0,Medium,1992,Junior,Non-Urban,Low
+2019,27,IT Specialist,Noord-Holland,HBO,3.0,3300.0,39600.0,Medium,1992,Junior,Non-Urban,Medium
+2019,27,Software Engineer,Amsterdam,HBO,2.0,4000.0,48000.0,Medium,1992,Junior,Urban,Medium
+2019,27,Test Automation Engineer,,HBO,3.0,3350.0,40200.0,Medium,1992,Junior,Non-Urban,Medium
+2019,27,Web Developer,Amersfoort,HBO,4.0,3000.0,36000.0,Medium,1992,Junior,Non-Urban,Low
+2019,27,Web Developer,Eindhoven,HBO,2.0,2000.0,24000.0,Medium,1992,Junior,Non-Urban,Low
+2019,27,Software Engineer,Randstad,MBO,7.0,3600.0,43200.0,Low,1992,Mid-level,Urban,Medium
+2019,27,Software Engineer,Eindhoven,WO,3.0,2600.0,31200.0,High,1992,Junior,Non-Urban,Low
+2019,27,Security Officer,Den Haag,HBO,4.0,4000.0,48000.0,Medium,1992,Junior,Non-Urban,Medium
+2019,27,System Administrator,Utrecht,MBO,7.0,3250.0,39000.0,Low,1992,Mid-level,Urban,Medium
+2019,26,Support Engineer,Zwolle,MBO,2.0,1800.0,21600.0,Low,1993,Junior,Non-Urban,Low
+2019,26,Helpdeskmedewerker,Overijssel,MBO,1.0,1700.0,20400.0,Low,1993,Junior,Non-Urban,Low
+2019,26,BI Analyst,Noord-Brabant,HBO,0.0,2550.0,30600.0,Medium,1993,Junior,Non-Urban,Low
+2019,26,Software Engineer,,HBO,1.0,2815.0,33780.0,Medium,1993,Junior,Non-Urban,Low
+2019,26,Project Manager,Noorden,HBO,2.0,3475.0,41700.0,Medium,1993,Junior,Non-Urban,Medium
+2019,26,Support Engineer,,MBO,5.0,2680.0,32160.0,Low,1993,Junior,Non-Urban,Low
+2019,26,Software Engineer,,MBO,8.0,3400.0,40800.0,Low,1993,Mid-level,Non-Urban,Medium
+2019,26,Lead Developer,,MBO,8.0,4500.0,54000.0,Low,1993,Mid-level,Non-Urban,Medium
+2019,26,Software Engineer,Drenthe,HBO,3.0,2200.0,26400.0,Medium,1993,Junior,Non-Urban,Low
+2019,26,Software Engineer,Hilversum,HBO,4.0,3250.0,39000.0,Medium,1993,Junior,Non-Urban,Medium
+2019,26,Service Manager,Zuid-Holland,WO,4.0,3700.0,44400.0,High,1993,Junior,Non-Urban,Medium
+2019,26,Software Engineer,Utrecht,WO,1.0,3150.0,37800.0,High,1993,Junior,Urban,Medium
+2019,26,Servicedeskmedewerker,Amsterdam,MBO,7.0,2600.0,31200.0,Low,1993,Mid-level,Urban,Low
+2019,26,Front-end Developer,Sittard,MBO,7.0,2100.0,25200.0,Low,1993,Mid-level,Non-Urban,Low
+2019,26,Quantitative Analyst,,WO,2.0,4200.0,50400.0,High,1993,Junior,Non-Urban,Medium
+2019,26,Software Engineer,zuid Limburg,HBO,2.0,2145.0,25740.0,Medium,1993,Junior,Non-Urban,Low
+2019,26,IT Manager,,MBO,7.0,5000.0,60000.0,Low,1993,Mid-level,Non-Urban,Medium
+2019,26,Network Administrator,,MBO,6.0,3511.1834695731154,42134.20163487738,Low,1993,Mid-level,Non-Urban,Medium
+2019,26,Support Engineer,Hilversum,MBO,4.0,2600.0,31200.0,Low,1993,Junior,Non-Urban,Low
+2019,26,Front-end Developer,Eindhoven,Unknown,2.0,2400.0,28800.0,Low,1993,Junior,Non-Urban,Low
+2019,26,Software Engineer,,HBO,2.0,2400.0,28800.0,Medium,1993,Junior,Non-Urban,Low
+2019,26,Embedded Engineer,Hengelo,Unknown,5.5194690265486726,3200.0,38400.0,Low,1993,Mid-level,Non-Urban,Medium
+2019,26,Support Engineer,Gelderland,MBO,0.0,2100.0,25200.0,Low,1993,Junior,Non-Urban,Low
+2019,26,Embedded Engineer,Zwolle,Unknown,2.0,3150.0,37800.0,Low,1993,Junior,Non-Urban,Medium
+2019,26,Software Engineer,,HBO,3.0,2750.0,33000.0,Medium,1993,Junior,Non-Urban,Low
+2019,26,Hardware Engineer,Enschede,HBO,1.0,2211.0,26532.0,Medium,1993,Junior,Non-Urban,Low
+2019,26,Cloud Engineer,Gelderland,HBO,5.0,3300.0,39600.0,Medium,1993,Junior,Non-Urban,Medium
+2019,26,UX/UI Designer,,HBO,5.0,3300.0,39600.0,Medium,1993,Junior,Non-Urban,Medium
+2019,26,Software Engineer,Randstad,HBO,1.0,2500.0,30000.0,Medium,1993,Junior,Urban,Low
+2019,26,Software Engineer,Noord-Brabant,HBO,0.0,2200.0,26400.0,Medium,1993,Junior,Non-Urban,Low
+2019,26,Software Engineer,,WO,1.0,3600.0,43200.0,High,1993,Junior,Non-Urban,Medium
+2019,26,Product Owner,Hilversum,MBO,2.0,3200.0,38400.0,Low,1993,Junior,Non-Urban,Medium
+2019,25,Software Engineer,Rijssen,HBO,5.0,3200.0,38400.0,Medium,1994,Junior,Non-Urban,Medium
+2019,25,BI Analyst,Utrecht,HBO,0.0,3060.0,36720.0,Medium,1994,Junior,Urban,Medium
+2019,25,Software Engineer,Amsterdam,WO,1.0,2360.0,28320.0,High,1994,Junior,Urban,Low
+2019,25,IT specialist productiesystemen,,MBO,3.0,3700.0,44400.0,Low,1994,Junior,Non-Urban,Medium
+2019,25,Support Engineer,Amsterdam,MBO,3.0,3300.0,39600.0,Low,1994,Junior,Urban,Medium
+2019,25,Software Engineer,Zuid-holland,WO,2.0,4100.0,49200.0,High,1994,Junior,Non-Urban,Medium
+2019,25,System Administrator,,MBO,3.0,1700.0,20400.0,Low,1994,Junior,Non-Urban,Low
+2019,25,Software Engineer,Randstad,HBO,1.0,3150.0,37800.0,Medium,1994,Junior,Urban,Medium
+2019,25,System Engineer,Groningen,HBO,0.0,2500.0,30000.0,Medium,1994,Junior,Non-Urban,Low
+2019,25,Functioneel Beheerder,Limburg,HBO,1.0,2640.0,31680.0,Medium,1994,Junior,Non-Urban,Low
+2019,25,Support Engineer,,MBO,6.0,2825.0,33900.0,Low,1994,Mid-level,Non-Urban,Low
+2019,25,Security Consultant,Randstad,HBO,0.0,3050.0,36600.0,Medium,1994,Junior,Urban,Medium
+2019,25,Software Engineer,,HBO,3.0,3100.0,37200.0,Medium,1994,Junior,Non-Urban,Medium
+2019,25,System Administrator,Apeldoorn,HBO,0.0,2675.0,32100.0,Medium,1994,Junior,Non-Urban,Low
+2019,25,IT consultant,Amsterdam,HBO,1.0,3100.0,37200.0,Medium,1994,Junior,Urban,Medium
+2019,25,Test Automation Engineer,Randstad,HBO,3.0,2200.0,26400.0,Medium,1994,Junior,Urban,Low
+2019,25,Software Engineer,Delft,HBO,4.0,3086.0,37032.0,Medium,1994,Junior,Non-Urban,Medium
+2019,25,Software Engineer,Apeldoorn,HBO,0.0,2575.0,30900.0,Medium,1994,Junior,Non-Urban,Low
+2019,25,System Administrator,Noord Limburg,HBO,0.0,2400.0,28800.0,Medium,1994,Junior,Non-Urban,Low
+2019,25,Software Engineer,Amsterdam,WO,1.0,4200.0,50400.0,High,1994,Junior,Urban,Medium
+2019,25,IT Specialist,Overijssel,MBO,4.0,1963.0,23556.0,Low,1994,Junior,Non-Urban,Low
+2019,25,System Administrator,Noord Brabant,HBO,5.0,2900.0,34800.0,Medium,1994,Junior,Non-Urban,Low
+2019,25,System Administrator,Noord-Brabant,MBO,3.0,2180.0,26160.0,Low,1994,Junior,Non-Urban,Low
+2019,25,Software Engineer,Overijssel (Zwolle),MBO,1.0,1900.0,22800.0,Low,1994,Junior,Non-Urban,Low
+2019,25,Systeemontwikkelaar,Zwolle,VWO,6.0,3100.0,37200.0,,1994,Mid-level,Non-Urban,Medium
+2019,25,System Administrator,Eindhoven,MBO,5.0,2502.0,30024.0,Low,1994,Junior,Non-Urban,Low
+2019,25,Servicedeskmedewerker,Spijkenisse,HBO,4.0,2750.0,33000.0,Medium,1994,Junior,Non-Urban,Low
+2019,25,Software Engineer,Zwolle,HBO,2.0,3650.0,43800.0,Medium,1994,Junior,Non-Urban,Medium
+2019,25,Cloud Engineer,,HBO,1.0,2600.0,31200.0,Medium,1994,Junior,Non-Urban,Low
+2019,25,Servicedeskmedewerker,Groningen,HBO,1.0,2226.0,26712.0,Medium,1994,Junior,Non-Urban,Low
+2019,25,Software Engineer,Amsterdam,HBO,1.0,3150.0,37800.0,Medium,1994,Junior,Urban,Medium
+2019,25,Front-end Developer,,HBO,2.0,1800.0,21600.0,Medium,1994,Junior,Non-Urban,Low
+2019,25,Software Engineer,Eindhoven,HBO,0.0,3300.0,39600.0,Medium,1994,Junior,Non-Urban,Medium
+2019,25,ERP Consultant,,HBO,2.0,2859.0,34308.0,Medium,1994,Junior,Non-Urban,Low
+2019,25,Web Developer,Drenthe,MBO,0.0,2200.0,26400.0,Low,1994,Junior,Non-Urban,Low
+2019,25,Software Engineer,Zuid-Limburg,HBO,2.0,2600.0,31200.0,Medium,1994,Junior,Non-Urban,Low
+2019,24,Servicedeskmedewerker,,MBO,4.0,3031.0,36372.0,Low,1995,Junior,Non-Urban,Medium
+2019,24,Software Engineer,,Unknown,1.0,2950.0,35400.0,Low,1995,Junior,Non-Urban,Low
+2019,24,Software Engineer,Deventer,HBO,2.0,3500.0,42000.0,Medium,1995,Junior,Non-Urban,Medium
+2019,24,PIM Consultant,Hoorn,MBO,4.0,2550.0,30600.0,Low,1995,Junior,Non-Urban,Low
+2019,24,Web Developer,Randstad,HBO,3.0,2125.0,25500.0,Medium,1995,Junior,Urban,Low
+2019,24,Servicedeskmedewerker,Noord Brabant,MBO,0.0,1750.0,21000.0,Low,1995,Junior,Non-Urban,Low
+2019,24,Software Engineer,Eindhoven,HBO,3.0,2900.0,34800.0,Medium,1995,Junior,Non-Urban,Low
+2019,24,Support Engineer,,MBO,4.0,2567.0,30804.0,Low,1995,Junior,Non-Urban,Low
+2019,24,BI Developer,Randstad,HBO,2.0,3810.0,45720.0,Medium,1995,Junior,Urban,Medium
+2019,24,Software Engineer,Randstad,WO,1.0,2800.0,33600.0,High,1995,Junior,Urban,Low
+2019,24,Microsoft Consultant,Lijnden,WO,0.0,3511.1834695731154,42134.20163487738,High,1995,Junior,Non-Urban,Medium
+2019,24,BI Developer,Ede,MBO,2.0,2500.0,30000.0,Low,1995,Junior,Non-Urban,Low
+2019,24,Front-end Developer,Almere,HBO,2.0,3330.0,39960.0,Medium,1995,Junior,Non-Urban,Medium
+2019,24,Software Engineer,Deventer,MBO,6.0,3100.0,37200.0,Low,1995,Mid-level,Non-Urban,Medium
+2019,24,Functioneel Beheerder,Gelderland,HBO,0.0,2300.0,27600.0,Medium,1995,Junior,Non-Urban,Low
+2019,24,Software Engineer,Eindhoven,WO,0.0,3000.0,36000.0,High,1995,Junior,Non-Urban,Low
+2019,24,Front-end Developer,Amsterdam,WO,6.0,3300.0,39600.0,High,1995,Mid-level,Urban,Medium
+2019,24,Servicedeskmedewerker,Utrecht,MBO,4.0,1900.0,22800.0,Low,1995,Junior,Urban,Low
+2019,24,Front-end Developer,Rotterdam,MBO,5.0,2500.0,30000.0,Low,1995,Junior,Non-Urban,Low
+2019,24,System Administrator,Utrecht,MBO,1.0,2320.0,27840.0,Low,1995,Junior,Urban,Low
+2019,24,Software Engineer,Noordoost brabant,HBO,1.0,2000.0,24000.0,Medium,1995,Junior,Non-Urban,Low
+2019,24,Security Officer,Utrecht,HBO,0.0,2400.0,28800.0,Medium,1995,Junior,Urban,Low
+2019,24,System Administrator,Eindhoven,HBO,1.0,2300.0,27600.0,Medium,1995,Junior,Non-Urban,Low
+2019,24,VDI Engineer,Utrecht,MBO,1.0,2800.0,33600.0,Low,1995,Junior,Urban,Low
+2019,24,Software Engineer,Amsterdam,HBO,3.0,3150.0,37800.0,Medium,1995,Junior,Urban,Medium
+2019,24,Software Engineer,Gouda,HBO,2.0,3750.0,45000.0,Medium,1995,Junior,Non-Urban,Medium
+2019,24,Software Engineer,Zuid-Holland,HBO,4.0,4100.0,49200.0,Medium,1995,Junior,Non-Urban,Medium
+2019,24,Software Engineer,Rotterdam,Havo,0.0,2100.0,25200.0,,1995,Junior,Non-Urban,Low
+2019,23,Software Engineer,Hoorn,HBO,1.0,2400.0,28800.0,Medium,1996,Junior,Non-Urban,Low
+2019,23,Data technologist,Zuiden,HBO,0.0,2200.0,26400.0,Medium,1996,Junior,Non-Urban,Low
+2019,23,System Administrator,Randstad,MBO,1.0,2750.0,33000.0,Low,1996,Junior,Urban,Low
+2019,23,Business Process Analyst,Limburg,HBO,0.0,2400.0,28800.0,Medium,1996,Junior,Non-Urban,Low
+2019,23,Software Engineer,Gelderland,HBO,1.0,2800.0,33600.0,Medium,1996,Junior,Non-Urban,Low
+2019,23,R&D Engineer,,HBO,0.0,2700.0,32400.0,Medium,1996,Junior,Non-Urban,Low
+2019,23,Software Engineer,,HBO,0.0,2940.0,35280.0,Medium,1996,Junior,Non-Urban,Low
+2019,23,Servicedeskmedewerker,Zuid-Holland,MBO,3.0,2580.0,30960.0,Low,1996,Junior,Non-Urban,Low
+2019,23,Werkplekbeheerder,Zuid-Holland/Brabant,MBO,3.0,1950.0,23400.0,Low,1996,Junior,Non-Urban,Low
+2019,23,Supply Chain Engineer,,WO,0.0,3511.1834695731154,42134.20163487738,High,1996,Junior,Non-Urban,Medium
+2019,23,Test Automation Engineer,,WO,0.0,2850.0,34200.0,High,1996,Junior,Non-Urban,Low
+2019,23,BI Consultant,,WO,0.0,2350.0,28200.0,High,1996,Junior,Non-Urban,Low
+2019,23,Servicedeskmedewerker,Breda,HBO,1.0,2144.0,25728.0,Medium,1996,Junior,Non-Urban,Low
+2019,23,Network Administrator,Amsterdam,MBO,0.0,3511.1834695731154,42134.20163487738,Low,1996,Junior,Urban,Medium
+2019,23,Network Administrator,Amsterdam,MBO,0.0,3200.0,38400.0,Low,1996,Junior,Urban,Medium
+2019,23,Helpdeskmedewerker,,MBO,2.0,1755.0,21060.0,Low,1996,Junior,Non-Urban,Low
+2019,23,Product Owner,Utrecht,HBO,2.0,3450.0,41400.0,Medium,1996,Junior,Urban,Medium
+2019,23,Servicedeskmedewerker,ZH,MBO,2.0,2645.0,31740.0,Low,1996,Junior,Non-Urban,Low
+2019,23,Front-end Developer,Eindhoven,MBO,2.0,2400.0,28800.0,Low,1996,Junior,Non-Urban,Low
+2019,23,Data Scientist,Amsterdam,WO,4.0,5016.0,60192.0,High,1996,Junior,Urban,High
+2019,23,Software Engineer,Eindhoven,HBO,2.0,3250.0,39000.0,Medium,1996,Junior,Non-Urban,Medium
+2019,23,DevOps Engineer,Twente,HBO,0.0,2750.0,33000.0,Medium,1996,Junior,Non-Urban,Low
+2019,23,Network Administrator,Amsterdam,MBO,0.0,3500.0,42000.0,Low,1996,Junior,Urban,Medium
+2019,23,Support Engineer,Overijssel,MBO,0.0,2800.0,33600.0,Low,1996,Junior,Non-Urban,Low
+2019,23,Support Engineer,,MBO,1.0,1945.0,23340.0,Low,1996,Junior,Non-Urban,Low
+2019,23,Lead Developer,,MBO,3.0,2900.0,34800.0,Low,1996,Junior,Non-Urban,Low
+2019,22,Helpdeskmedewerker,,MBO,4.0,2468.0,29616.0,Low,1997,Junior,Non-Urban,Low
+2019,22,Telecom Engineer,,Unknown,2.0,2400.0,28800.0,Low,1997,Junior,Non-Urban,Low
+2019,22,Support Engineer,Eindhoven,MBO,0.0,2250.0,27000.0,Low,1997,Junior,Non-Urban,Low
+2019,22,Support Engineer,Delft,MBO,2.0,2300.0,27600.0,Low,1997,Junior,Non-Urban,Low
+2019,22,System Administrator,,MBO,2.0,2116.0,25392.0,Low,1997,Junior,Non-Urban,Low
+2019,22,System Administrator,Apeldoorn,MBO,2.0,2254.0,27048.0,Low,1997,Junior,Non-Urban,Low
+2019,22,Software Engineer,Luxemburg,HBO,2.0,3750.0,45000.0,Medium,1997,Junior,Non-Urban,Medium
+2019,22,Servicedeskmedewerker,Delft,MBO,2.0,2560.0,30720.0,Low,1997,Junior,Non-Urban,Low
+2019,22,Software Engineer,Den Haag,HBO,0.0,2600.0,31200.0,Medium,1997,Junior,Non-Urban,Low
+2019,22,Solution Engineer,Leuven,HBO,1.0,2550.0,30600.0,Medium,1997,Junior,Non-Urban,Low
+2019,22,Software Engineer,Noord-Holland,HBO,3.0,2300.0,27600.0,Medium,1997,Junior,Non-Urban,Low
+2019,22,Software Engineer,Almelo,HBO,0.0,2750.0,33000.0,Medium,1997,Junior,Non-Urban,Low
+2019,22,Lead Developer,,HBO,1.0,3030.0,36360.0,Medium,1997,Junior,Non-Urban,Medium
+2019,22,Servicedeskmedewerker,Tilburg,MBO,2.0,2050.0,24600.0,Low,1997,Junior,Non-Urban,Low
+2019,22,Pre Sales Consultant,Veluwe,HBO,1.0,3511.1834695731154,42134.20163487738,Medium,1997,Junior,Non-Urban,Medium
+2019,22,Mobile Developer,Veluwe,HBO,0.0,2850.0,34200.0,Medium,1997,Junior,Non-Urban,Low
+2019,22,Software Engineer,Rotterdam,HBO,2.0,3000.0,36000.0,Medium,1997,Junior,Non-Urban,Low
+2019,22,Software Engineer,Eindhoven,HBO,1.0,2900.0,34800.0,Medium,1997,Junior,Non-Urban,Low
+2019,22,System Administrator,,MBO,3.0,2650.0,31800.0,Low,1997,Junior,Non-Urban,Low
+2019,22,Presales Specialist,,HBO,1.0,2820.0,33840.0,Medium,1997,Junior,Non-Urban,Low
+2019,21,Business Consultant,Groningen,HBO,1.0,2800.0,33600.0,Medium,1998,Junior,Non-Urban,Low
+2019,21,Support Engineer,,MBO,1.0,1900.0,22800.0,Low,1998,Junior,Non-Urban,Low
+2019,21,Technical Consultant,,MBO,1.0,1312.0,15744.0,Low,1998,Junior,Non-Urban,Low
+2019,21,Cloud Engineer,Amsterdam,Unknown,0.0,2750.0,33000.0,Low,1998,Junior,Urban,Low
+2019,21,IT / VoIP Engineer,,MBO,1.0,1550.0,18600.0,Low,1998,Junior,Non-Urban,Low
+2019,21,Software Engineer,Winterswijk,MBO,0.0,1650.0,19800.0,Low,1998,Junior,Non-Urban,Low
+2019,21,Software Engineer,West Brabant,MBO,3.0,2400.0,28800.0,Low,1998,Junior,Non-Urban,Low
+2019,20,Consultant/Engineer,,HBO,2.0,3000.0,36000.0,Medium,1999,Junior,Non-Urban,Low
+2019,20,Network Administrator,,MBO,0.0,1750.0,21000.0,Low,1999,Junior,Non-Urban,Low
+2020,53,IT Manager,Utrecht,WO,20.0,5500.0,66000.0,High,1967,Senior,Urban,High
+2020,46,Test Automation Engineer,Zuid-Holland,Unknown,20.0,4270.0,51240.0,Low,1974,Senior,Non-Urban,Medium
+2020,45,Project Manager,,WO,20.0,4300.0,51600.0,High,1975,Senior,Non-Urban,Medium
+2020,44,Test Automation Engineer,Eindhoven,Unknown,20.0,4900.0,58800.0,Low,1976,Senior,Non-Urban,Medium
+2020,43,IT-coördinator,Noord-Brabant,HBO,20.0,3343.0,40116.0,Medium,1977,Senior,Non-Urban,Medium
+2020,41,Consultant,,VWO,20.0,4800.0,57600.0,,1979,Senior,Non-Urban,Medium
+2020,40,System Administrator,,HBO,16.0,3200.0,38400.0,Medium,1980,Senior,Non-Urban,Medium
+2020,40,Software Engineer,Zuid-Holland,MBO,1.0,2780.0,33360.0,Low,1980,Junior,Non-Urban,Low
+2020,40,IT Manager,,HBO,16.0,5750.0,69000.0,Medium,1980,Senior,Non-Urban,High
+2020,39,Test Automation Engineer,,WO,15.0,5350.0,64200.0,High,1981,Senior,Non-Urban,High
+2020,39,Software Engineer,,MBO,18.0,5000.0,60000.0,Low,1981,Senior,Non-Urban,Medium
+2020,39,Test Manager,Utrecht,HBO,12.0,5100.0,61200.0,Medium,1981,Senior,Urban,High
+2020,39,Software Architect,Gelderland,HBO,13.0,5723.0,68676.0,Medium,1981,Senior,Non-Urban,High
+2020,38,Cyber Security Specialist,EMEA,HBO,15.0,5900.0,70800.0,Medium,1982,Senior,Non-Urban,High
+2020,38,Solution Architect,Randstad,Unknown,12.0,3511.1834695731154,42134.20163487738,Low,1982,Senior,Urban,Medium
+2020,37,Lead Developer,Amsterdam,WO,9.0,6000.0,72000.0,High,1983,Mid-level,Urban,High
+2020,37,Information Security Officer,Utrecht,HBO,13.0,4200.0,50400.0,Medium,1983,Senior,Urban,Medium
+2020,37,Microsoft Consultant,,HBO,10.0,3600.0,43200.0,Medium,1983,Mid-level,Non-Urban,Medium
+2020,37,Project manager,Tilburg,HBO,10.0,5875.0,70500.0,Medium,1983,Mid-level,Non-Urban,High
+2020,37,IT Specialist,Randstad,WO,7.0,4225.0,50700.0,High,1983,Mid-level,Urban,Medium
+2020,37,QA Engineer,Randstad,HBO,10.0,3511.1834695731154,42134.20163487738,Medium,1983,Mid-level,Urban,Medium
+2020,37,Software Engineer,Limburg,WO,12.0,4100.0,49200.0,High,1983,Senior,Non-Urban,Medium
+2020,36,System Engineer,Utrecht,HBO,3.0,4900.0,58800.0,Medium,1984,Junior,Urban,Medium
+2020,36,Lead Developer,Utrecht,WO,13.0,5662.0,67944.0,High,1984,Senior,Urban,High
+2020,36,Test Engineer,Randstad,HBO,10.0,4500.0,54000.0,Medium,1984,Mid-level,Urban,Medium
+2020,36,Software Engineer,,WO,9.0,3511.1834695731154,42134.20163487738,High,1984,Mid-level,Non-Urban,Medium
+2020,36,Software Engineer,Randstad,WO,13.0,6000.0,72000.0,High,1984,Senior,Urban,High
+2020,36,Network Administrator,Amsterdam,MBO,15.0,4406.0,52872.0,Low,1984,Senior,Urban,Medium
+2020,36,Functioneel Beheerder,Groningen,HBO,14.0,4543.0,54516.0,Medium,1984,Senior,Non-Urban,Medium
+2020,35,Functioneel Beheerder,Amsterdam,HBO,7.0,4200.0,50400.0,Medium,1985,Mid-level,Urban,Medium
+2020,35,Project Engineer,,MBO,2.0,4600.0,55200.0,Low,1985,Junior,Non-Urban,Medium
+2020,35,Business Application Analyst,Maastricht,HBO,15.0,5420.0,65040.0,Medium,1985,Senior,Non-Urban,High
+2020,35,Software Engineer,,WO,10.0,4000.0,48000.0,High,1985,Mid-level,Non-Urban,Medium
+2020,35,Solution Engineer,Eindhoven,HBO,10.0,4410.0,52920.0,Medium,1985,Mid-level,Non-Urban,Medium
+2020,35,Applicatiebeheerder,Drenthe,HBO,7.0,3770.0,45240.0,Medium,1985,Mid-level,Non-Urban,Medium
+2020,35,Software Engineer,Zwolle,HBO,10.0,3600.0,43200.0,Medium,1985,Mid-level,Non-Urban,Medium
+2020,35,Software Engineer,,HBO,10.0,3610.0,43320.0,Medium,1985,Mid-level,Non-Urban,Medium
+2020,35,Software Engineer,Noord-Brabant,HBO,11.0,3185.0,38220.0,Medium,1985,Senior,Non-Urban,Medium
+2020,35,Microsoft Consultant,Rotterdam,HBO,8.0,5000.0,60000.0,Medium,1985,Mid-level,Non-Urban,Medium
+2020,35,Product Owner,Amsterdam,HBO,11.0,4700.0,56400.0,Medium,1985,Senior,Urban,Medium
+2020,35,Software Engineer,,WO,10.0,3511.1834695731154,42134.20163487738,High,1985,Mid-level,Non-Urban,Medium
+2020,35,Werkplekbeheerder,Noord-Holland,MBO,11.0,3000.0,36000.0,Low,1985,Senior,Non-Urban,Low
+2020,34,Software Engineer,Eindhoven,HBO,5.0,4629.0,55548.0,Medium,1986,Junior,Non-Urban,Medium
+2020,34,Test Automation Engineer,Utrecht,HBO,12.0,4100.0,49200.0,Medium,1986,Senior,Urban,Medium
+2020,34,Software Architect,,HBO,7.0,4900.0,58800.0,Medium,1986,Mid-level,Non-Urban,Medium
+2020,34,IT Manager,,MBO,12.0,5996.0,71952.0,Low,1986,Senior,Non-Urban,High
+2020,34,Software Engineer,,HBO,14.0,2900.0,34800.0,Medium,1986,Senior,Non-Urban,Low
+2020,34,Software Engineer,Limburg,HBO,3.0,2950.0,35400.0,Medium,1986,Junior,Non-Urban,Low
+2020,34,Test Automation Engineer,,HBO,2.0,2725.0,32700.0,Medium,1986,Junior,Non-Urban,Low
+2020,33,Software Engineer,Randstad,WO,7.0,4100.0,49200.0,High,1987,Mid-level,Urban,Medium
+2020,33,Security Officer,Noord-Holland,HBO,9.0,5000.0,60000.0,Medium,1987,Mid-level,Non-Urban,Medium
+2020,33,Manager Servicedesk,Amersfoort,MBO,12.0,4700.0,56400.0,Low,1987,Senior,Non-Urban,Medium
+2020,33,Software Engineer,Rotterdam,MBO,1.0,3500.0,42000.0,Low,1987,Junior,Non-Urban,Medium
+2020,33,Software Engineer,Overijssel,HBO,12.0,5000.0,60000.0,Medium,1987,Senior,Non-Urban,Medium
+2020,33,Software Engineer,Randstad,WO,6.0,3630.0,43560.0,High,1987,Mid-level,Urban,Medium
+2020,33,Software Engineer,,HBO,7.0,3600.0,43200.0,Medium,1987,Mid-level,Non-Urban,Medium
+2020,33,Software Engineer,Randstad,HBO,9.0,3400.0,40800.0,Medium,1987,Mid-level,Urban,Medium
+2020,33,Business Analyst,Schiphol-Rijk,VWO,14.0,5473.0,65676.0,,1987,Senior,Non-Urban,High
+2020,33,System Administrator,Noord-Brabant,MBO,14.0,4186.0,50232.0,Low,1987,Senior,Non-Urban,Medium
+2020,33,Software Engineer,Randstad,HBO,13.0,3500.0,42000.0,Medium,1987,Senior,Urban,Medium
+2020,33,System Engineer,,MBO,10.0,2992.0,35904.0,Low,1987,Mid-level,Non-Urban,Low
+2020,33,Software Engineer,Utrecht,WO,4.0,3600.0,43200.0,High,1987,Junior,Urban,Medium
+2020,33,Software Engineer,Utrecht,HBO,4.0,3511.1834695731154,42134.20163487738,Medium,1987,Junior,Urban,Medium
+2020,33,Project Manager,Randstad,WO,6.0,4860.0,58320.0,High,1987,Mid-level,Urban,Medium
+2020,33,Software Engineer,Lelystad,HBO,10.0,3600.0,43200.0,Medium,1987,Mid-level,Non-Urban,Medium
+2020,33,Test Automation Engineer,Den Haag,WO,3.0,3258.0,39096.0,High,1987,Junior,Non-Urban,Medium
+2020,33,Software Engineer,Rotterdam,WO,7.0,4800.0,57600.0,High,1987,Mid-level,Non-Urban,Medium
+2020,33,IT Manager,Randstad,WO,9.0,5300.0,63600.0,High,1987,Mid-level,Urban,High
+2020,33,IT Manager,Rotterdam,HBO,7.0,5150.0,61800.0,Medium,1987,Mid-level,Non-Urban,High
+2020,33,Applicatiebeheerder,,HBO,7.0,3845.0,46140.0,Medium,1987,Mid-level,Non-Urban,Medium
+2020,33,System Administrator,Groningen,MBO,11.0,4048.0,48576.0,Low,1987,Senior,Non-Urban,Medium
+2020,32,Test Automation Engineer,Noord-Brabant,WO,10.0,4800.0,57600.0,High,1988,Mid-level,Non-Urban,Medium
+2020,32,DevOps Engineer,Delft,HBO,11.0,3900.0,46800.0,Medium,1988,Senior,Non-Urban,Medium
+2020,32,ICT Specialist,Zuid-Limburg,HBO,9.0,3511.1834695731154,42134.20163487738,Medium,1988,Mid-level,Non-Urban,Medium
+2020,32,Software Engineer,Noord-Brabant,MBO,12.0,3600.0,43200.0,Low,1988,Senior,Non-Urban,Medium
+2020,32,Support Engineer,Harderwijk,Unknown,2.0,2600.0,31200.0,Low,1988,Junior,Non-Urban,Low
+2020,32,Data Engineer,Utrecht,HBO,8.0,4850.0,58200.0,Medium,1988,Mid-level,Urban,Medium
+2020,32,Software Engineer,,WO,6.0,5833.0,69996.0,High,1988,Mid-level,Non-Urban,High
+2020,32,System Administrator,Eindhoven,Unknown,0.0,2800.0,33600.0,Low,1988,Junior,Non-Urban,Low
+2020,32,Data Engineer,Noord-Brabant,MBO,12.0,3511.1834695731154,42134.20163487738,Low,1988,Senior,Non-Urban,Medium
+2020,32,BI Developer,Utrecht,WO,5.0,3785.0,45420.0,High,1988,Junior,Urban,Medium
+2020,32,Software Engineer,Intern,MBO,8.0,3100.0,37200.0,Low,1988,Mid-level,Non-Urban,Medium
+2020,32,Machine Learning Engineer,,"HBO, WO",3.0,3150.0,37800.0,,1988,Junior,Non-Urban,Medium
+2020,32,Software Engineer,Den Haag,HBO,2.0,3100.0,37200.0,Medium,1988,Junior,Non-Urban,Medium
+2020,32,System Engineer,Utrecht,HBO,5.5194690265486726,2750.0,33000.0,Medium,1988,Mid-level,Urban,Low
+2020,32,Network Administrator,Gelderland,HBO,3.0,3693.0,44316.0,Medium,1988,Junior,Non-Urban,Medium
+2020,31,System Engineer,Den Haag,MBO,11.0,4740.0,56880.0,Low,1989,Senior,Non-Urban,Medium
+2020,31,Network Administrator,Gelderland,HBO,2.0,3521.0,42252.0,Medium,1989,Junior,Non-Urban,Medium
+2020,31,ICT-architect,Goes,HBO,11.0,4726.0,56712.0,Medium,1989,Senior,Non-Urban,Medium
+2020,31,Test Automation Engineer,,WO,3.0,3504.0,42048.0,High,1989,Junior,Non-Urban,Medium
+2020,31,Software Engineer,Noord-Brabant,HBO,6.0,4200.0,50400.0,Medium,1989,Mid-level,Non-Urban,Medium
+2020,31,Lead Developer,,Unknown,9.0,4400.0,52800.0,Low,1989,Mid-level,Non-Urban,Medium
+2020,31,Inhouse System,Boxmeer,HBO,8.0,4050.0,48600.0,Medium,1989,Mid-level,Non-Urban,Medium
+2020,31,Software Engineer,Zuid-Holland,HBO,6.0,3700.0,44400.0,Medium,1989,Mid-level,Non-Urban,Medium
+2020,31,Web Developer,Amsterdam,WO,3.0,4400.0,52800.0,High,1989,Junior,Urban,Medium
+2020,31,Network Administrator,Utrecht,HBO,4.0,2599.0,31188.0,Medium,1989,Junior,Urban,Low
+2020,31,System Administrator,Noord-Brabant,MBO,5.0,2400.0,28800.0,Low,1989,Junior,Non-Urban,Low
+2020,31,Software Engineer,,WO,4.0,3902.0,46824.0,High,1989,Junior,Non-Urban,Medium
+2020,31,Technisch specialist,,MBO,7.0,4175.0,50100.0,Low,1989,Mid-level,Non-Urban,Medium
+2020,31,Werkplekbeheerder,'s Hertogenbosch,HBO,4.0,3800.0,45600.0,Medium,1989,Junior,Non-Urban,Medium
+2020,31,Support Engineer,Limburg,HBO,6.0,2800.0,33600.0,Medium,1989,Mid-level,Non-Urban,Low
+2020,31,Software Engineer,Tilburg,HBO,4.0,2750.0,33000.0,Medium,1989,Junior,Non-Urban,Low
+2020,31,Internationaal Project Medewerker ERP,WfH,HBO,5.0,4230.0,50760.0,Medium,1989,Junior,Non-Urban,Medium
+2020,31,Applicatiebeheerder,Brabant,MBO,11.0,4300.0,51600.0,Low,1989,Senior,Non-Urban,Medium
+2020,31,System Administrator,Rotterdam,MBO,10.0,3000.0,36000.0,Low,1989,Mid-level,Non-Urban,Low
+2020,31,Security Officer,,HBO,0.0,2100.0,25200.0,Medium,1989,Junior,Non-Urban,Low
+2020,31,Lead Developer,Groningen,WO,5.0,4300.0,51600.0,High,1989,Junior,Non-Urban,Medium
+2020,30,Meewerkend Coördinator Servicedesk,Randstad,MBO,9.0,3013.0,36156.0,Low,1990,Mid-level,Urban,Medium
+2020,30,Software Engineer,Amersfoort,WO,1.0,3125.0,37500.0,High,1990,Junior,Non-Urban,Medium
+2020,30,Software Engineer,'s Hertogenbosch,HBO,4.0,3050.0,36600.0,Medium,1990,Junior,Non-Urban,Medium
+2020,30,Lead Developer,Eindhoven,WO,4.0,5050.0,60600.0,High,1990,Junior,Non-Urban,High
+2020,30,IT Auditor,Utrecht,WO,2.0,3600.0,43200.0,High,1990,Junior,Urban,Medium
+2020,30,Software Engineer,Utrecht,WO,4.0,4500.0,54000.0,High,1990,Junior,Urban,Medium
+2020,30,Software Engineer,Utrecht,MBO,7.0,3000.0,36000.0,Low,1990,Mid-level,Urban,Low
+2020,30,Product Owner,Randstad,VWO,1.0,3100.0,37200.0,,1990,Junior,Urban,Medium
+2020,30,Lead Developer,Barendrecht,HBO,6.0,3500.0,42000.0,Medium,1990,Mid-level,Non-Urban,Medium
+2020,30,Data-Analyst,Randstad,WO,4.0,1920.0,23040.0,High,1990,Junior,Urban,Low
+2020,30,Test Automation Engineer,Amersfoort,HBO,1.0,3400.0,40800.0,Medium,1990,Junior,Non-Urban,Medium
+2020,30,System Administrator,Amersfoort,MBO,10.0,3554.0,42648.0,Low,1990,Mid-level,Non-Urban,Medium
+2020,30,System Administrator,Noord-Brabant,MBO,11.0,5200.0,62400.0,Low,1990,Senior,Non-Urban,High
+2020,30,Microsoft Consultant,Gelderland,MBO,8.0,3511.1834695731154,42134.20163487738,Low,1990,Mid-level,Non-Urban,Medium
+2020,30,Low Code Developer,Noord Brabant,HBO,1.0,2115.0,25380.0,Medium,1990,Junior,Non-Urban,Low
+2020,30,Software Engineer,Utrecht,WO,5.0,5100.0,61200.0,High,1990,Junior,Urban,High
+2020,30,Test Automation Engineer,Randstad,HBO,8.0,3058.0,36696.0,Medium,1990,Mid-level,Urban,Medium
+2020,30,System Administrator,Twente,HBO,8.0,2500.0,30000.0,Medium,1990,Mid-level,Non-Urban,Low
+2020,30,System Administrator,Rotterdam,MBO,9.0,3250.0,39000.0,Low,1990,Mid-level,Non-Urban,Medium
+2020,30,DevOps Engineer,Dordrecht,MBO,10.0,4250.0,51000.0,Low,1990,Mid-level,Non-Urban,Medium
+2020,30,Low Code Developer,Randstad,WO,4.0,4160.0,49920.0,High,1990,Junior,Urban,Medium
+2020,30,System Administrator,Achterhoek,MBO,8.0,2604.0,31248.0,Low,1990,Mid-level,Non-Urban,Low
+2020,30,System Administrator,Apeldoorn,MBO,8.0,3300.0,39600.0,Low,1990,Mid-level,Non-Urban,Medium
+2020,30,Software Engineer,Utrecht,Unknown,5.0,5600.0,67200.0,Low,1990,Junior,Urban,High
+2020,30,Software Engineer,Noord-Holland,MBO,3.0,3200.0,38400.0,Low,1990,Junior,Non-Urban,Medium
+2020,30,Software Engineer,Overijssel,HBO,4.0,3750.0,45000.0,Medium,1990,Junior,Non-Urban,Medium
+2020,30,Software Engineer,Randstad,WO,5.0,3500.0,42000.0,High,1990,Junior,Urban,Medium
+2020,30,Cloud Engineer,,MBO,11.0,4750.0,57000.0,Low,1990,Senior,Non-Urban,Medium
+2020,30,ERP Consultant,Standplaats,HBO,5.0,3150.0,37800.0,Medium,1990,Junior,Non-Urban,Medium
+2020,30,System Administrator,Eindhoven,MBO,12.0,3850.0,46200.0,Low,1990,Senior,Non-Urban,Medium
+2020,30,Lead Developer,Utrecht,WO,4.0,5530.0,66360.0,High,1990,Junior,Urban,High
+2020,30,Mobile Developer,,HBO,5.5194690265486726,4000.0,48000.0,Medium,1990,Mid-level,Non-Urban,Medium
+2020,30,Front-end Developer,Tilburg,HBO,4.0,3300.0,39600.0,Medium,1990,Junior,Non-Urban,Medium
+2020,29,System Administrator,Twente,HBO,8.0,2500.0,30000.0,Medium,1991,Mid-level,Non-Urban,Low
+2020,29,Network Administrator,Noord-brabant,HBO,1.0,2600.0,31200.0,Medium,1991,Junior,Non-Urban,Low
+2020,29,Lead Developer,Noord Brabant,HBO,8.0,4000.0,48000.0,Medium,1991,Mid-level,Non-Urban,Medium
+2020,29,Data Engineer,,HBO,3.0,2700.0,32400.0,Medium,1991,Junior,Non-Urban,Low
+2020,29,Software Engineer,,HBO,3.0,3000.0,36000.0,Medium,1991,Junior,Non-Urban,Low
+2020,29,Applicatiebeheerder,Schiedam,MBO,10.0,3023.0,36276.0,Low,1991,Mid-level,Non-Urban,Medium
+2020,29,Support Engineer,Groningen,HBO,1.0,2600.0,31200.0,Medium,1991,Junior,Non-Urban,Low
+2020,29,Microsoft Consultant,,MBO,5.0,3500.0,42000.0,Low,1991,Junior,Non-Urban,Medium
+2020,29,Software Engineer,Drenthe,Unknown,5.0,3400.0,40800.0,Low,1991,Junior,Non-Urban,Medium
+2020,29,DevOps Engineer,Friesland,HBO,8.0,4000.0,48000.0,Medium,1991,Mid-level,Non-Urban,Medium
+2020,29,UX/UI Designer,Den Haag,HBO,6.0,3100.0,37200.0,Medium,1991,Mid-level,Non-Urban,Medium
+2020,29,Data Scientist,Randstad,WO,3.0,3800.0,45600.0,High,1991,Junior,Urban,Medium
+2020,29,Embedded Engineer,Eindhoven,HBO,3.0,2700.0,32400.0,Medium,1991,Junior,Non-Urban,Low
+2020,29,Test Automation Engineer,Alkmaar,WO,4.0,3900.0,46800.0,High,1991,Junior,Non-Urban,Medium
+2020,29,Data Scientist,Randstad,WO,3.0,3300.0,39600.0,High,1991,Junior,Urban,Medium
+2020,29,Front-end Developer,Amsterdam,HBO,4.0,3500.0,42000.0,Medium,1991,Junior,Urban,Medium
+2020,29,Business Analyst,Randstad,WO,0.0,3300.0,39600.0,High,1991,Junior,Urban,Medium
+2020,29,Test Automation Engineer,Amsterdam,HBO,6.0,3090.0,37080.0,Medium,1991,Mid-level,Urban,Medium
+2020,29,Business Analyst,Randstad,WO,2.0,3000.0,36000.0,High,1991,Junior,Urban,Low
+2020,29,Servicedesk Manager,Eindhoven,HBO,5.0,3750.0,45000.0,Medium,1991,Junior,Non-Urban,Medium
+2020,29,Data Engineer,Amsterdam,WO,4.0,4200.0,50400.0,High,1991,Junior,Urban,Medium
+2020,29,Project Engineer,Helmond,HAVO,11.0,3390.0,40680.0,,1991,Senior,Non-Urban,Medium
+2020,29,Software Engineer,,Unknown,6.0,3600.0,43200.0,Low,1991,Mid-level,Non-Urban,Medium
+2020,29,Business Analyst,Randstad,WO,3.0,4475.0,53700.0,High,1991,Junior,Urban,Medium
+2020,29,Lead Developer,Utrecht,HBO,7.0,3910.0,46920.0,Medium,1991,Mid-level,Urban,Medium
+2020,29,Lead Developer,'s Hertogenbosch,HBO,5.0,3050.0,36600.0,Medium,1991,Junior,Non-Urban,Medium
+2020,29,Software Engineer,Groningen,MBO,8.0,4250.0,51000.0,Low,1991,Mid-level,Non-Urban,Medium
+2020,29,Cloud Engineer,,WO,5.0,4100.0,49200.0,High,1991,Junior,Non-Urban,Medium
+2020,29,Software Engineer,Zuid-Holland,WO,1.0,4000.0,48000.0,High,1991,Junior,Non-Urban,Medium
+2020,28,IT Informatie Analyst,Gelderland,HBO,4.0,3511.1834695731154,42134.20163487738,Medium,1992,Junior,Non-Urban,Medium
+2020,28,Creative Developer,Eindhoven,HBO,2.0,2700.0,32400.0,Medium,1992,Junior,Non-Urban,Low
+2020,28,Software Engineer,Utrecht,MBO,5.0,3500.0,42000.0,Low,1992,Junior,Urban,Medium
+2020,28,DevOps Engineer,Limburg,HBO,7.0,4800.0,57600.0,Medium,1992,Mid-level,Non-Urban,Medium
+2020,28,Business Analyst,Rotterdam / Vlissingen,Unknown,2.0,3860.0,46320.0,Low,1992,Junior,Non-Urban,Medium
+2020,28,Front-end Developer,Noord-Limburg,HBO,2.0,2567.0,30804.0,Medium,1992,Junior,Non-Urban,Low
+2020,28,IT Consultancy,Randstad,WO,4.0,3175.0,38100.0,High,1992,Junior,Urban,Medium
+2020,28,System Engineer,,MBO,7.0,3000.0,36000.0,Low,1992,Mid-level,Non-Urban,Low
+2020,28,Applicatiebeheerder,Amsterdam,HBO,1.0,2919.0,35028.0,Medium,1992,Junior,Urban,Low
+2020,28,Software Engineer,Randstad,WO,2.0,3125.0,37500.0,High,1992,Junior,Urban,Medium
+2020,28,Data Engineer,Randstad,WO,4.0,3511.1834695731154,42134.20163487738,High,1992,Junior,Urban,Medium
+2020,28,Data Scientist,Voornamelijk Amsterdam,WO,2.0,3000.0,36000.0,High,1992,Junior,Non-Urban,Low
+2020,28,Software Engineer,Eindhoven,HBO,4.0,2800.0,33600.0,Medium,1992,Junior,Non-Urban,Low
+2020,28,Data Engineer,,WO,3.0,4000.0,48000.0,High,1992,Junior,Non-Urban,Medium
+2020,28,IT Manager,Maastricht,MBO,7.0,4300.0,51600.0,Low,1992,Mid-level,Non-Urban,Medium
+2020,28,System Administrator,Zwolle,MBO,6.0,2775.0,33300.0,Low,1992,Mid-level,Non-Urban,Low
+2020,28,Software Engineer,Randstad,WO,3.0,3125.0,37500.0,High,1992,Junior,Urban,Medium
+2020,28,BI Developer,Randstad,HBO,5.0,3640.0,43680.0,Medium,1992,Junior,Urban,Medium
+2020,28,Software Engineer,Randstad,WO,3.0,3400.0,40800.0,High,1992,Junior,Urban,Medium
+2020,28,Security Officer,Amsterdam,HBO,6.0,3960.0,47520.0,Medium,1992,Mid-level,Urban,Medium
+2020,28,Cloud Engineer,Utrecht,HBO,0.0,2800.0,33600.0,Medium,1992,Junior,Urban,Low
+2020,28,BI Developer,Den Haag,HBO,0.0,2750.0,33000.0,Medium,1992,Junior,Non-Urban,Low
+2020,28,System Engineer,Groningen,HBO,6.0,3980.0,47760.0,Medium,1992,Mid-level,Non-Urban,Medium
+2020,28,BI Analyst,Randstad,WO,5.0,3750.0,45000.0,High,1992,Junior,Urban,Medium
+2020,28,Software Engineer,Gelderland,HBO,4.0,2900.0,34800.0,Medium,1992,Junior,Non-Urban,Low
+2020,28,Front-end Developer,Noord-Limburg,HBO,3.0,2865.0,34380.0,Medium,1992,Junior,Non-Urban,Low
+2020,28,Network Administrator,,WO,5.0,3100.0,37200.0,High,1992,Junior,Non-Urban,Medium
+2020,28,Embedded Engineer,,HBO,2.0,2850.0,34200.0,Medium,1992,Junior,Non-Urban,Low
+2020,28,Software Engineer,Amsterdam,B,3.0,4300.0,51600.0,,1992,Junior,Urban,Medium
+2020,28,Solution Engineer,,HBO,4.0,3650.0,43800.0,Medium,1992,Junior,Non-Urban,Medium
+2020,28,DevOps Engineer,Purmerend,HBO,2.0,3600.0,43200.0,Medium,1992,Junior,Non-Urban,Medium
+2020,28,Software Engineer,Noord-Brabant,HBO,0.0,2070.0,24840.0,Medium,1992,Junior,Non-Urban,Low
+2020,28,Cyber Security Specialist,Utrecht,HBO,4.0,4600.0,55200.0,Medium,1992,Junior,Urban,Medium
+2020,28,Software Engineer,Gelderland,HBO,2.0,4320.0,51840.0,Medium,1992,Junior,Non-Urban,Medium
+2020,28,Pre-Sales consultant,,HBO,6.0,3750.0,45000.0,Medium,1992,Mid-level,Non-Urban,Medium
+2020,27,Software Engineer,,HBO,3.0,4100.0,49200.0,Medium,1993,Junior,Non-Urban,Medium
+2020,27,System Administrator,Westerbork,MBO,2.0,1759.0,21108.0,Low,1993,Junior,Non-Urban,Low
+2020,27,Data Engineer,,HBO,2.0,3300.0,39600.0,Medium,1993,Junior,Non-Urban,Medium
+2020,27,ERP Consultant,Eindhoven,Unknown,1.0,3000.0,36000.0,Low,1993,Junior,Non-Urban,Low
+2020,27,Servicedeskmedewerker,Gelderland,MBO,1.0,2225.0,26700.0,Low,1993,Junior,Non-Urban,Low
+2020,27,Infrastructure Specialist,Eindhoven,HBO,3.0,2750.0,33000.0,Medium,1993,Junior,Non-Urban,Low
+2020,27,Support Engineer,Gelderland,MBO,8.0,3100.0,37200.0,Low,1993,Mid-level,Non-Urban,Medium
+2020,27,System Administrator,Zuid-Holland,MBO,0.0,2700.0,32400.0,Low,1993,Junior,Non-Urban,Low
+2020,27,Applicatiebeheerder,,HBO,5.0,2400.0,28800.0,Medium,1993,Junior,Non-Urban,Low
+2020,27,ERP Consultant,Randstad,WO,0.0,3150.0,37800.0,High,1993,Junior,Urban,Medium
+2020,27,Lead Developer,Den Haag,MBO,5.0,3400.0,40800.0,Low,1993,Junior,Non-Urban,Medium
+2020,27,Technical Operator,Groningen.,MBO,5.0,3305.0,39660.0,Low,1993,Junior,Non-Urban,Medium
+2020,27,DevOps Engineer,Eindhoven,HBO,6.0,3750.0,45000.0,Medium,1993,Mid-level,Non-Urban,Medium
+2020,27,Software Engineer,Overijssel,MBO,2.0,2750.0,33000.0,Low,1993,Junior,Non-Urban,Low
+2020,27,Software Engineer,Breda,HBO,5.0,3200.0,38400.0,Medium,1993,Junior,Non-Urban,Medium
+2020,27,Web Developer,Utrecht,MBO,7.0,3400.0,40800.0,Low,1993,Mid-level,Urban,Medium
+2020,27,Software Engineer,Noord-Brabant,MBO,4.0,3050.0,36600.0,Low,1993,Junior,Non-Urban,Medium
+2020,27,Software Engineer,Arnhem,HBO,4.0,4050.0,48600.0,Medium,1993,Junior,Non-Urban,Medium
+2020,27,Network Administrator,Zwolle,HBO,2.0,3020.0,36240.0,Medium,1993,Junior,Non-Urban,Medium
+2020,27,System Administrator,Lelystad,MBO,6.0,2700.0,32400.0,Low,1993,Mid-level,Non-Urban,Low
+2020,27,Software Engineer,Gelderland,HBO,5.0,4200.0,50400.0,Medium,1993,Junior,Non-Urban,Medium
+2020,27,Cloud Engineer,Amersfoort,HBO,4.0,3300.0,39600.0,Medium,1993,Junior,Non-Urban,Medium
+2020,27,Support Engineer,Groningen,MBO,5.0,2200.0,26400.0,Low,1993,Junior,Non-Urban,Low
+2020,27,Servicedeskmedewerker,Randstad,HBO,0.0,2605.0,31260.0,Medium,1993,Junior,Urban,Low
+2020,27,MES Engineer,Breda,HBO,2.0,3000.0,36000.0,Medium,1993,Junior,Non-Urban,Low
+2020,27,Support Engineer,Eindhoven,MBO,1.0,2450.0,29400.0,Low,1993,Junior,Non-Urban,Low
+2020,27,Software Engineer,Utrecht,WO,2.0,2500.0,30000.0,High,1993,Junior,Urban,Low
+2020,27,Data Analyst,Randstad,WO,3.0,3600.0,43200.0,High,1993,Junior,Urban,Medium
+2020,27,BI Consultant,Groningen/ Zwolle,HBO,2.0,2450.0,29400.0,Medium,1993,Junior,Non-Urban,Low
+2020,27,Project Engineer,,MBO,7.0,3400.0,40800.0,Low,1993,Mid-level,Non-Urban,Medium
+2020,27,IT Manager,Utrecht,MBO,10.0,3800.0,45600.0,Low,1993,Mid-level,Urban,Medium
+2020,26,Test Automation Engineer,Voornamelijk Randstad,HBO,1.0,2500.0,30000.0,Medium,1994,Junior,Non-Urban,Low
+2020,26,Software Engineer,'s Hertogenbosch,HBO,1.0,3000.0,36000.0,Medium,1994,Junior,Non-Urban,Low
+2020,26,Software Engineer,Amsterdam,HBO,5.0,4250.0,51000.0,Medium,1994,Junior,Urban,Medium
+2020,26,Security Consultant,,HBO,1.0,3250.0,39000.0,Medium,1994,Junior,Non-Urban,Medium
+2020,26,Data Analyst,Randstad,WO,2.0,3100.0,37200.0,High,1994,Junior,Urban,Medium
+2020,26,Software Engineer,Utrecht,WO,3.0,4000.0,48000.0,High,1994,Junior,Urban,Medium
+2020,26,Consultant,Utrecht,HBO,3.0,3050.0,36600.0,Medium,1994,Junior,Urban,Medium
+2020,26,System Engineer,Amsterdam,MBO,6.0,5315.0,63780.0,Low,1994,Mid-level,Urban,High
+2020,26,MES Engineer,Breda,HBO,2.0,2800.0,33600.0,Medium,1994,Junior,Non-Urban,Low
+2020,26,Mobile Developer,,HBO,0.0,2665.0,31980.0,Medium,1994,Junior,Non-Urban,Low
+2020,26,Software Engineer,Alkmaar,HBO,5.0,3400.0,40800.0,Medium,1994,Junior,Non-Urban,Medium
+2020,26,IT Consultant,Randstad,WO,0.0,2800.0,33600.0,High,1994,Junior,Urban,Low
+2020,26,System Administrator,Rotterdam,MBO,5.0,1904.0,22848.0,Low,1994,Junior,Non-Urban,Low
+2020,26,Software Engineer,,HBO,0.0,2500.0,30000.0,Medium,1994,Junior,Non-Urban,Low
+2020,26,Embedded Engineer,Utrecht,WO,0.0,2250.0,27000.0,High,1994,Junior,Urban,Low
+2020,26,Test Automation Engineer,Rotterdam,WO,2.0,3800.0,45600.0,High,1994,Junior,Non-Urban,Medium
+2020,26,Software Engineer,Leiden,HBO,2.0,2750.0,33000.0,Medium,1994,Junior,Non-Urban,Low
+2020,26,Software Engineer,Noord-Brabant,HBO,4.0,3200.0,38400.0,Medium,1994,Junior,Non-Urban,Medium
+2020,26,Software Engineer,Randstad,HBO,3.0,3300.0,39600.0,Medium,1994,Junior,Urban,Medium
+2020,26,Software Engineer,Limburg,HBO,1.0,2910.0,34920.0,Medium,1994,Junior,Non-Urban,Low
+2020,26,Software Designer,Rotterdam en Utrecht,HBO,4.0,2900.0,34800.0,Medium,1994,Junior,Non-Urban,Low
+2020,25,Software Engineer,Rotterdam,VWO,4.0,4080.0,48960.0,,1995,Junior,Non-Urban,Medium
+2020,25,Front-end Developer,,HBO,2.0,1975.0,23700.0,Medium,1995,Junior,Non-Urban,Low
+2020,25,System Administrator,Utrecht,MBO,3.0,2748.0,32976.0,Low,1995,Junior,Urban,Low
+2020,25,DevOps Engineer,Enschede,MBO,7.0,3900.0,46800.0,Low,1995,Mid-level,Non-Urban,Medium
+2020,25,System Administrator,,MBO,4.0,2750.0,33000.0,Low,1995,Junior,Non-Urban,Low
+2020,25,Network Administrator,,HBO,0.0,2750.0,33000.0,Medium,1995,Junior,Non-Urban,Low
+2020,25,Software Engineer,Almere,HBO,3.0,3850.0,46200.0,Medium,1995,Junior,Non-Urban,Medium
+2020,25,Security Officer,Amsterdam,MBO,5.0,3000.0,36000.0,Low,1995,Junior,Urban,Low
+2020,25,Software Engineer,,Unknown,2.0,2900.0,34800.0,Low,1995,Junior,Non-Urban,Low
+2020,25,Maintenance Engineer,Overijssel,Unknown,0.0,3443.0,41316.0,Low,1995,Junior,Non-Urban,Medium
+2020,25,Servicedeskmedewerker,,MBO,0.0,1800.0,21600.0,Low,1995,Junior,Non-Urban,Low
+2020,25,BI Consultant,,HBO,3.0,3150.0,37800.0,Medium,1995,Junior,Non-Urban,Medium
+2020,25,Informatie Analyst,Rotterdam,WO,0.0,2500.0,30000.0,High,1995,Junior,Non-Urban,Low
+2020,25,Technisch Web Analyst,Rotterdam,HBO,1.0,2200.0,26400.0,Medium,1995,Junior,Non-Urban,Low
+2020,25,Data Engineer,Amsterdam,WO,1.0,2700.0,32400.0,High,1995,Junior,Urban,Low
+2020,25,Mobile Device Management consultant/Engineer,,ul,5.0,3100.0,37200.0,,1995,Junior,Non-Urban,Medium
+2020,25,Software Engineer,Rotterdam,HBO,1.0,2800.0,33600.0,Medium,1995,Junior,Non-Urban,Low
+2020,25,QA Engineer,Eindhoven,Unknown,0.0,2850.0,34200.0,Low,1995,Junior,Non-Urban,Low
+2020,25,Software Engineer,Utrecht,HBO,1.0,2400.0,28800.0,Medium,1995,Junior,Urban,Low
+2020,25,Software Engineer,,MBO,4.0,2450.0,29400.0,Low,1995,Junior,Non-Urban,Low
+2020,25,Software Engineer,,MBO,1.0,2325.0,27900.0,Low,1995,Junior,Non-Urban,Low
+2020,25,System Administrator,Amersfoort,MBO,2.0,2450.0,29400.0,Low,1995,Junior,Non-Urban,Low
+2020,25,System Administrator,Overijssel,MBO,4.0,2473.0,29676.0,Low,1995,Junior,Non-Urban,Low
+2020,25,Network Administrator,Amsterdam,MBO,1.0,4200.0,50400.0,Low,1995,Junior,Urban,Medium
+2020,25,Test Automation Engineer,Eindhoven,HBO,0.0,2850.0,34200.0,Medium,1995,Junior,Non-Urban,Low
+2020,25,Functioneel Beheerder,Gelderland,HBO,1.0,2380.0,28560.0,Medium,1995,Junior,Non-Urban,Low
+2020,25,Software Engineer,,HBO,2.0,2500.0,30000.0,Medium,1995,Junior,Non-Urban,Low
+2020,25,Front-end Developer,Groningen,MBO,4.0,2388.0,28656.0,Low,1995,Junior,Non-Urban,Low
+2020,25,Software Engineer,Eindhoven,HBO,1.0,3500.0,42000.0,Medium,1995,Junior,Non-Urban,Medium
+2020,25,Front-end Developer,Eindhoven,HBO,2.0,2400.0,28800.0,Medium,1995,Junior,Non-Urban,Low
+2020,25,Cloud Engineer,Zwolle,HBO,0.0,2500.0,30000.0,Medium,1995,Junior,Non-Urban,Low
+2020,25,Software Engineer,Friesland,MBO,5.0,3519.0,42228.0,Low,1995,Junior,Non-Urban,Medium
+2020,24,Front-end Developer,Rotterdam,HBO,5.0,4063.0,48756.0,Medium,1996,Junior,Non-Urban,Medium
+2020,24,Business Analyst,Randstad,WO,1.0,3950.0,47400.0,High,1996,Junior,Urban,Medium
+2020,24,Front-end Developer,Limburg,HBO,5.0,5000.0,60000.0,Medium,1996,Junior,Non-Urban,Medium
+2020,24,Software Engineer,Rotterdam,MBO,1.0,2850.0,34200.0,Low,1996,Junior,Non-Urban,Low
+2020,24,DevOps Engineer,Utrecht,HBO,5.5194690265486726,3011.0,36132.0,Medium,1996,Mid-level,Urban,Medium
+2020,24,Front-end Developer,Amsterdam,HBO,3.0,4480.0,53760.0,Medium,1996,Junior,Urban,Medium
+2020,24,Network Administrator,Randstad,MBO,0.0,3820.0,45840.0,Low,1996,Junior,Urban,Medium
+2020,24,ICT beheerder,,HBO,6.0,2340.0,28080.0,Medium,1996,Mid-level,Non-Urban,Low
+2020,24,Software Engineer,Twente,HBO,0.0,2484.0,29808.0,Medium,1996,Junior,Non-Urban,Low
+2020,24,Front-end Developer,Den Haag,HBO,0.0,2400.0,28800.0,Medium,1996,Junior,Non-Urban,Low
+2020,24,Software Engineer,Amsterdam,HBO,2.0,2980.0,35760.0,Medium,1996,Junior,Urban,Low
+2020,24,Software Engineer,Utrecht,HBO,4.0,3800.0,45600.0,Medium,1996,Junior,Urban,Medium
+2020,24,System Administrator,Zuid Holland,Havo,2.0,3000.0,36000.0,,1996,Junior,Non-Urban,Low
+2020,24,Software Engineer,Rotterdam,WO,0.0,3500.0,42000.0,High,1996,Junior,Non-Urban,Medium
+2020,24,R&D Engineer,Haarlem,HBO,1.0,2700.0,32400.0,Medium,1996,Junior,Non-Urban,Low
+2020,23,Software Engineer,Roosendaal,HBO,0.0,3525.0,42300.0,Medium,1997,Junior,Non-Urban,Medium
+2020,23,Software Engineer,Eindhoven,MBO,2.0,2450.0,29400.0,Low,1997,Junior,Non-Urban,Low
+2020,23,Software Engineer,,MBO,4.0,2800.0,33600.0,Low,1997,Junior,Non-Urban,Low
+2020,23,System Administrator,Amersfoort,MBO,2.0,2770.0,33240.0,Low,1997,Junior,Non-Urban,Low
+2020,23,Software Engineer,,Unknown,5.0,5226.0,62712.0,Low,1997,Junior,Non-Urban,High
+2020,23,System Administrator,Doetinchem,Unknown,0.0,2400.0,28800.0,Low,1997,Junior,Non-Urban,Low
+2020,23,Software Engineer,Heerenveen,HBO,0.0,2300.0,27600.0,Medium,1997,Junior,Non-Urban,Low
+2020,23,Front-end Developer,Tilburg,HBO,0.0,2400.0,28800.0,Medium,1997,Junior,Non-Urban,Low
+2020,23,Software Engineer,Groningen,MBO,4.0,2300.0,27600.0,Low,1997,Junior,Non-Urban,Low
+2020,23,Support Engineer,,MBO,2.0,2712.0,32544.0,Low,1997,Junior,Non-Urban,Low
+2020,23,Medewerker ICT,Eindhoven,MBO,1.0,1597.0,19164.0,Low,1997,Junior,Non-Urban,Low
+2020,23,Software Engineer,Randstad,HBO,1.0,3100.0,37200.0,Medium,1997,Junior,Urban,Medium
+2020,23,System Administrator,Amersfoort,MBO,2.0,3100.0,37200.0,Low,1997,Junior,Non-Urban,Medium
+2020,23,Servicedeskmedewerker,Overijssel,MBO,5.0,2790.0,33480.0,Low,1997,Junior,Non-Urban,Low
+2020,23,Software Engineer,Eindhoven,HBO,2.0,2455.0,29460.0,Medium,1997,Junior,Non-Urban,Low
+2020,23,System Administrator,Gelderland,MBO,1.0,2000.0,24000.0,Low,1997,Junior,Non-Urban,Low
+2020,23,Applicatiebeheerder,Limburg,Unknown,2.0,2000.0,24000.0,Low,1997,Junior,Non-Urban,Low
+2020,23,Cloud Engineer,Eindhoven,HBO,1.0,2625.0,31500.0,Medium,1997,Junior,Non-Urban,Low
+2020,23,Software Engineer,Groot-Ammers,HBO,0.0,2700.0,32400.0,Medium,1997,Junior,Non-Urban,Low
+2020,22,Support Engineer,Amersfoort,MBO,1.0,2400.0,28800.0,Low,1998,Junior,Non-Urban,Low
+2020,22,Support Engineer,,MBO,4.0,2000.0,24000.0,Low,1998,Junior,Non-Urban,Low
+2020,22,Software Engineer,Groot-Ammers,HBO,0.0,2500.0,30000.0,Medium,1998,Junior,Non-Urban,Low
+2020,22,System Administrator,Veenendaal,MBO,0.0,1664.0,19968.0,Low,1998,Junior,Non-Urban,Low
+2020,22,Software Engineer,Zwolle,HBO,1.0,2750.0,33000.0,Medium,1998,Junior,Non-Urban,Low
+2020,22,Software Engineer,,MBO,2.0,2750.0,33000.0,Low,1998,Junior,Non-Urban,Low
+2020,22,Software Engineer,Eindhoven,HBO,1.0,2650.0,31800.0,Medium,1998,Junior,Non-Urban,Low
+2020,22,Servicedeskmedewerker,Nieuwegein,MBO,0.0,1900.0,22800.0,Low,1998,Junior,Non-Urban,Low
+2020,22,System Administrator,Zuid-Holland,HBO,1.0,3200.0,38400.0,Medium,1998,Junior,Non-Urban,Medium
+2020,22,Software Engineer,Overijssel,WO,0.0,2450.0,29400.0,High,1998,Junior,Non-Urban,Low
+2020,22,System Administrator,Hardenberg,HBO,0.0,2100.0,25200.0,Medium,1998,Junior,Non-Urban,Low
+2020,22,Test Automation Engineer,Randstad,Unknown,0.0,2700.0,32400.0,Low,1998,Junior,Urban,Low
+2020,22,DevOps Engineer,Zuid Holland,HBO,3.0,2800.0,33600.0,Medium,1998,Junior,Non-Urban,Low
+2020,21,Network Administrator,Noord-Holland,MBO,1.0,1900.0,22800.0,Low,1999,Junior,Non-Urban,Low
+2020,21,System Administrator,Breda,MBO,2.0,1803.0,21636.0,Low,1999,Junior,Non-Urban,Low
+2020,21,Software Engineer,Kantoor,HBO,2.0,2150.0,25800.0,Medium,1999,Junior,Non-Urban,Low
+2020,21,Cloud Engineer,,MBO,0.0,2500.0,30000.0,Low,1999,Junior,Non-Urban,Low
+2020,19,Support Engineer,Amsterdam,MBO,1.0,3450.0,41400.0,Low,2001,Junior,Urban,Medium
+2020,18,Software Engineer,,MBO,0.0,1650.0,19800.0,Low,2002,Junior,Non-Urban,Low
+2021,48,Integrator/Middleware specialist,Randstad,Unknown,27.0,4500.0,54000.0,Low,1973,Senior,Urban,Medium
+2021,45,System Administrator,Rotterdan,HAVO,25.0,3220.0,38640.0,,1976,Senior,Non-Urban,Medium
+2021,44,Lead Developer,,HBO,22.0,4890.0,58680.0,Medium,1977,Senior,Non-Urban,Medium
+2021,41,Applicatiebeheerder,Utrecht,VWO,19.0,3550.0,42600.0,,1980,Senior,Urban,Medium
+2021,41,Software Engineer,Zeist,HBO,14.0,4875.0,58500.0,Medium,1980,Senior,Non-Urban,Medium
+2021,40,Software Engineer,,HBO,15.0,3916.0,46992.0,Medium,1981,Senior,Non-Urban,Medium
+2021,40,DevOps Engineer,,MBO,21.0,5500.0,66000.0,Low,1981,Senior,Non-Urban,High
+2021,40,Proces Engineer,Nijmegen,MBO,3.0,2310.0,27720.0,Low,1981,Junior,Non-Urban,Low
+2021,39,IT Consultant,,MBO,20.0,4275.0,51300.0,Low,1982,Senior,Non-Urban,Medium
+2021,39,System Administrator,,MBO,13.0,2949.0,35388.0,Low,1982,Senior,Non-Urban,Low
+2021,39,Solution Architect,Utrecht,HBO,17.0,5400.0,64800.0,Medium,1982,Senior,Urban,High
+2021,38,Software Engineer,Utrecht,HBO,11.0,4000.0,48000.0,Medium,1983,Senior,Urban,Medium
+2021,38,Low Code Developer,,WO,0.0,3152.0,37824.0,High,1983,Junior,Non-Urban,Medium
+2021,37,Support Engineer,Twente,MBO,18.0,2800.0,33600.0,Low,1984,Senior,Non-Urban,Low
+2021,37,IT Manager,Noord-Brabant,HBO,20.0,4500.0,54000.0,Medium,1984,Senior,Non-Urban,Medium
+2021,37,Lead Developer,Utrecht,HBO,6.0,4950.0,59400.0,Medium,1984,Mid-level,Urban,Medium
+2021,37,Test Automation Engineer,Den Haag,WO,1.0,2700.0,32400.0,High,1984,Junior,Non-Urban,Low
+2021,37,System Administrator,,MBO,16.0,3931.0,47172.0,Low,1984,Senior,Non-Urban,Medium
+2021,37,Web Developer,Den Haag,HBO,11.0,4400.0,52800.0,Medium,1984,Senior,Non-Urban,Medium
+2021,37,Lead Developer,,WO,10.0,3511.1834695731154,42134.20163487738,High,1984,Mid-level,Non-Urban,Medium
+2021,36,Servicedeskmedewerker,Assen,MBO,13.0,3287.0,39444.0,Low,1985,Senior,Non-Urban,Medium
+2021,36,Applicatiebeheerder,Assen,MBO,13.0,3511.1834695731154,42134.20163487738,Low,1985,Senior,Non-Urban,Medium
+2021,36,Software Engineer,Eindhoven,HBO,11.0,4200.0,50400.0,Medium,1985,Senior,Non-Urban,Medium
+2021,36,System Administrator,,MBO,5.0,3300.0,39600.0,Low,1985,Junior,Non-Urban,Medium
+2021,36,Low Code Developer,Zuid-limburg,HBO,6.0,3880.0,46560.0,Medium,1985,Mid-level,Non-Urban,Medium
+2021,36,System Administrator,Utrecht,MBO,5.0,3700.0,44400.0,Low,1985,Junior,Urban,Medium
+2021,35,Software Engineer,,HBO,1.0,3200.0,38400.0,Medium,1986,Junior,Non-Urban,Medium
+2021,35,On-Site Technical Field Service Engineer,Delft,MBO,19.0,4417.0,53004.0,Low,1986,Senior,Non-Urban,Medium
+2021,35,IT Manager,Randstad,WO,9.0,3511.1834695731154,42134.20163487738,High,1986,Mid-level,Urban,Medium
+2021,34,Software Engineer,Randstad,HBO,8.0,4100.0,49200.0,Medium,1987,Mid-level,Urban,Medium
+2021,34,Software Engineer,Utrecht,HBO,7.0,4150.0,49800.0,Medium,1987,Mid-level,Urban,Medium
+2021,34,Software Engineer,Eindhoven,WO,5.0,3430.0,41160.0,High,1987,Junior,Non-Urban,Medium
+2021,34,Software Engineer,Limburg,HBO,3.0,2950.0,35400.0,Medium,1987,Junior,Non-Urban,Low
+2021,34,Software Engineer,Rotterdam,HBO,13.0,4600.0,55200.0,Medium,1987,Senior,Non-Urban,Medium
+2021,34,IT Manager,Haarlem,Unknown,15.0,5787.0,69444.0,Low,1987,Senior,Non-Urban,High
+2021,34,IT Manager,,HBO,7.0,6000.0,72000.0,Medium,1987,Mid-level,Non-Urban,High
+2021,34,Applicatiebeheerder,Apeldoorn,MBO,0.0,3075.0,36900.0,Low,1987,Junior,Non-Urban,Medium
+2021,34,Applicatiebeheerder,,MBO,13.0,3124.0,37488.0,Low,1987,Senior,Non-Urban,Medium
+2021,34,DevOps Engineer,Noord-Brabant,Unknown,12.0,4200.0,50400.0,Low,1987,Senior,Non-Urban,Medium
+2021,33,Data Scientist,Amsterdam,WO,6.0,5638.0,67656.0,High,1988,Mid-level,Urban,High
+2021,33,Microsoft Consultant,,HBO,10.0,5200.0,62400.0,Medium,1988,Mid-level,Non-Urban,High
+2021,33,Lead Developer,Eindhoven,WO,12.0,6000.0,72000.0,High,1988,Senior,Non-Urban,High
+2021,33,IT Pre-sales,,WO,8.0,6000.0,72000.0,High,1988,Mid-level,Non-Urban,High
+2021,33,Lead Developer,Zuid-Holland,HBO,7.0,4400.0,52800.0,Medium,1988,Mid-level,Non-Urban,Medium
+2021,33,Data Analyst,Rotterdam,MBO,8.0,4600.0,55200.0,Low,1988,Mid-level,Non-Urban,Medium
+2021,32,Software Architect,Goes,HBO,12.0,4890.0,58680.0,Medium,1989,Senior,Non-Urban,Medium
+2021,32,Test Automation Engineer,Utrecht,HBO,4.0,4100.0,49200.0,Medium,1989,Junior,Urban,Medium
+2021,32,Front-end Developer,Rotterdam,MBO,8.0,3050.0,36600.0,Low,1989,Mid-level,Non-Urban,Medium
+2021,32,Project Engineer,Groningen,HBO,10.0,3825.0,45900.0,Medium,1989,Mid-level,Non-Urban,Medium
+2021,32,System Engineer,Den Haag,MBO,11.0,3511.1834695731154,42134.20163487738,Low,1989,Senior,Non-Urban,Medium
+2021,32,Software Engineer,Harderwijk,HBO,4.0,2750.0,33000.0,Medium,1989,Junior,Non-Urban,Low
+2021,32,Software Engineer,,Unknown,3.0,3269.0,39228.0,Low,1989,Junior,Non-Urban,Medium
+2021,32,IT Consultant,,MBO,11.0,5500.0,66000.0,Low,1989,Senior,Non-Urban,High
+2021,32,Software Engineer,,HBO,7.0,3100.0,37200.0,Medium,1989,Mid-level,Non-Urban,Medium
+2021,32,DevOps Engineer,Amsterdam,WO,4.0,4800.0,57600.0,High,1989,Junior,Urban,Medium
+2021,31,Lead Developer,Barendrecht,HBO,7.0,3700.0,44400.0,Medium,1990,Mid-level,Non-Urban,Medium
+2021,31,Software Engineer,,MBO,11.0,3500.0,42000.0,Low,1990,Senior,Non-Urban,Medium
+2021,31,Lead Developer,Groningen,WO,5.0,5100.0,61200.0,High,1990,Junior,Non-Urban,High
+2021,31,Lead Developer,Eindhoven,WO,5.0,5512.0,66144.0,High,1990,Junior,Non-Urban,High
+2021,31,Software Engineer,,HBO,5.0,3650.0,43800.0,Medium,1990,Junior,Non-Urban,Medium
+2021,31,BI Developer,Amsterdam,WO,3.0,3650.0,43800.0,High,1990,Junior,Urban,Medium
+2021,31,Front-end Developer,Noord Brabant,HBO,8.0,3000.0,36000.0,Medium,1990,Mid-level,Non-Urban,Low
+2021,31,Network Administrator,,HBO,15.0,5100.0,61200.0,Medium,1990,Senior,Non-Urban,High
+2021,31,Low Code Developer,Zuid-limburg,HBO,6.0,3400.0,40800.0,Medium,1990,Mid-level,Non-Urban,Medium
+2021,31,Functioneel Beheerder,Amsterdam,HBO,8.0,3241.0,38892.0,Medium,1990,Mid-level,Urban,Medium
+2021,31,System Administrator,Zuid-Holland,MBO,10.0,3867.0,46404.0,Low,1990,Mid-level,Non-Urban,Medium
+2021,31,Data Governance Officer,Amsterdam,IT,7.0,3511.1834695731154,42134.20163487738,,1990,Mid-level,Urban,Medium
+2021,31,IT Engineer,Randstad,MBO,10.0,2850.0,34200.0,Low,1990,Mid-level,Urban,Low
+2021,31,Software Engineer,Randstad,HBO,9.0,3511.1834695731154,42134.20163487738,Medium,1990,Mid-level,Urban,Medium
+2021,31,Test Automation Engineer,Randstad,HBO,9.0,4200.0,50400.0,Medium,1990,Mid-level,Urban,Medium
+2021,30,Data Engineer,,HBO,1.0,3100.0,37200.0,Medium,1991,Junior,Non-Urban,Medium
+2021,30,Lead Developer,Noord Brabant,HBO,9.0,4100.0,49200.0,Medium,1991,Mid-level,Non-Urban,Medium
+2021,30,Project Engineer,Helmond,HAVO,12.0,3600.0,43200.0,,1991,Senior,Non-Urban,Medium
+2021,30,Software Engineer,,MBO,10.0,2500.0,30000.0,Low,1991,Mid-level,Non-Urban,Low
+2021,30,Test Automation Engineer,Randstad,HBO,9.0,3500.0,42000.0,Medium,1991,Mid-level,Urban,Medium
+2021,30,Network Administrator,Noord-brabant,HBO,2.0,3030.0,36360.0,Medium,1991,Junior,Non-Urban,Medium
+2021,30,Software Engineer,,WO,6.0,4650.0,55800.0,High,1991,Mid-level,Non-Urban,Medium
+2021,30,Solution Engineer,,MBO,6.0,4000.0,48000.0,Low,1991,Mid-level,Non-Urban,Medium
+2021,30,System Administrator,Twente,HBO,8.0,3229.0,38748.0,Medium,1991,Mid-level,Non-Urban,Medium
+2021,30,Software Engineer,Utrecht,WO,5.0,3900.0,46800.0,High,1991,Junior,Urban,Medium
+2021,30,Cloud Engineer,Schiphol,Unknown,4.0,3900.0,46800.0,Low,1991,Junior,Non-Urban,Medium
+2021,30,Infosec consultant,Randstad,HBO,6.0,5100.0,61200.0,Medium,1991,Mid-level,Urban,High
+2021,30,Software Engineer,,Unknown,6.0,3700.0,44400.0,Low,1991,Mid-level,Non-Urban,Medium
+2021,30,BI Consultant,Utrecht,HBO,2.0,3170.0,38040.0,Medium,1991,Junior,Urban,Medium
+2021,30,Embedded Engineer,Eindhoven,HBO,4.0,2840.0,34080.0,Medium,1991,Junior,Non-Urban,Low
+2021,30,Consultant Data Management,,WO,4.0,4000.0,48000.0,High,1991,Junior,Non-Urban,Medium
+2021,30,DevOps Engineer,Eindhoven,WO,5.0,3800.0,45600.0,High,1991,Junior,Non-Urban,Medium
+2021,30,Servicedeskmedewerker,Utrecht,MBO,7.0,3250.0,39000.0,Low,1991,Mid-level,Urban,Medium
+2021,30,Cloud Engineer,Zuid-Limburg,HBO,6.0,3400.0,40800.0,Medium,1991,Mid-level,Non-Urban,Medium
+2021,29,Front-end Developer,Noord-Brabant,HBO,3.0,3210.0,38520.0,Medium,1992,Junior,Non-Urban,Medium
+2021,29,DevOps Engineer,Limburg,HBO,8.0,5000.0,60000.0,Medium,1992,Mid-level,Non-Urban,Medium
+2021,29,Network Administrator,,HBO,5.0,4250.0,51000.0,Medium,1992,Junior,Non-Urban,Medium
+2021,29,Microsoft Consultant,Breda,HBO,0.0,2300.0,27600.0,Medium,1992,Junior,Non-Urban,Low
+2021,29,System Administrator,,MBO,8.0,2575.0,30900.0,Low,1992,Mid-level,Non-Urban,Low
+2021,29,BI Consultant,Hoofddorp,HBO,4.0,2850.0,34200.0,Medium,1992,Junior,Non-Urban,Low
+2021,29,System Engineer,,MBO,9.0,5150.0,61800.0,Low,1992,Mid-level,Non-Urban,High
+2021,29,BI Consultant,,HBO,5.0,5100.0,61200.0,Medium,1992,Junior,Non-Urban,High
+2021,29,Business Analyst,Zuid-Holland,Unknown,3.0,4446.0,53352.0,Low,1992,Junior,Non-Urban,Medium
+2021,29,System Administrator,Zwolle,MBO,7.0,2965.0,35580.0,Low,1992,Mid-level,Non-Urban,Low
+2021,29,Business Analyst,Utrecht,WO,4.0,3700.0,44400.0,High,1992,Junior,Urban,Medium
+2021,29,Software Engineer,,MBO,2.0,2842.0,34104.0,Low,1992,Junior,Non-Urban,Low
+2021,29,Cloud Engineer,Randstad,HBO,5.0,4700.0,56400.0,Medium,1992,Junior,Urban,Medium
+2021,29,Support Engineer,Drenthe,MBO,11.0,2300.0,27600.0,Low,1992,Senior,Non-Urban,Low
+2021,29,Lead Developer,Rotterdam,MBO,8.0,5000.0,60000.0,Low,1992,Mid-level,Non-Urban,Medium
+2021,29,Lead Developer,Zuid-Holland,HBO,4.0,4050.0,48600.0,Medium,1992,Junior,Non-Urban,Medium
+2021,29,Lead Developer,Amersfoort,MBO,10.0,4500.0,54000.0,Low,1992,Mid-level,Non-Urban,Medium
+2021,28,Security Specialist,Amsterdam,HBO,2.0,4000.0,48000.0,Medium,1993,Junior,Urban,Medium
+2021,28,Developer,Amsterdam,HBO,5.0,3800.0,45600.0,Medium,1993,Junior,Urban,Medium
+2021,28,Software Engineer,,HBO,3.0,3000.0,36000.0,Medium,1993,Junior,Non-Urban,Low
+2021,28,Embedded Engineer,,WO,2.0,3300.0,39600.0,High,1993,Junior,Non-Urban,Medium
+2021,28,Software Engineer,Enschede,HBO,3.0,3353.0,40236.0,Medium,1993,Junior,Non-Urban,Medium
+2021,28,Software Engineer,Utrecht,HBO,7.0,2675.0,32100.0,Medium,1993,Mid-level,Urban,Low
+2021,28,Software Engineer,,HBO,6.0,3511.1834695731154,42134.20163487738,Medium,1993,Mid-level,Non-Urban,Medium
+2021,28,Applicatiebeheerder,Amsterdam,HBO,2.0,3850.0,46200.0,Medium,1993,Junior,Urban,Medium
+2021,28,Applicatiebeheerder,Amsterdam,HBO,2.0,4285.0,51420.0,Medium,1993,Junior,Urban,Medium
+2021,28,DevOps Engineer,Arnhem,WO,4.0,4300.0,51600.0,High,1993,Junior,Non-Urban,Medium
+2021,28,Software Engineer,Amsterdam,WO,3.0,3000.0,36000.0,High,1993,Junior,Urban,Low
+2021,28,MES Engineer,Breda,HBO,3.0,3000.0,36000.0,Medium,1993,Junior,Non-Urban,Low
+2021,28,Security Officer/Engineer,Utrecht,HBO,3.0,4000.0,48000.0,Medium,1993,Junior,Urban,Medium
+2021,28,Data Engineer,,WO,3.0,3550.0,42600.0,High,1993,Junior,Non-Urban,Medium
+2021,28,Data Engineer,,HBO,3.0,4300.0,51600.0,Medium,1993,Junior,Non-Urban,Medium
+2021,28,Software Engineer,,HBO,6.0,2827.0,33924.0,Medium,1993,Mid-level,Non-Urban,Low
+2021,28,Network Administrator,Utrecht,HBO,8.0,5500.0,66000.0,Medium,1993,Mid-level,Urban,High
+2021,28,Linux Engineer,Overijssel,HBO,3.0,2750.0,33000.0,Medium,1993,Junior,Non-Urban,Low
+2021,27,Cloud Engineer,Huis/Utrecht,HBO,5.0,2122.0,25464.0,Medium,1994,Junior,Non-Urban,Low
+2021,27,Cloud Engineer,Amstelveen,HBO,6.0,4300.0,51600.0,Medium,1994,Mid-level,Non-Urban,Medium
+2021,27,System Administrator,Zuid Holland,MBO,5.0,3600.0,43200.0,Low,1994,Junior,Non-Urban,Medium
+2021,27,Software Engineer,,WO,1.0,2800.0,33600.0,High,1994,Junior,Non-Urban,Low
+2021,27,Software Engineer,,HBO,5.0,3150.0,37800.0,Medium,1994,Junior,Non-Urban,Medium
+2021,27,Software Engineer,Oosterwolde,HBO,1.0,2375.0,28500.0,Medium,1994,Junior,Non-Urban,Low
+2021,27,Business Analyst,Noord-Holland,HBO,1.0,3400.0,40800.0,Medium,1994,Junior,Non-Urban,Medium
+2021,27,Support Engineer,Rotterdam,MBO,6.0,2550.0,30600.0,Low,1994,Mid-level,Non-Urban,Low
+2021,27,System Administrator,Amsterdam,MBO,7.0,5450.0,65400.0,Low,1994,Mid-level,Urban,High
+2021,26,Software Architect,Eindhoven,HBO,1.0,4200.0,50400.0,Medium,1995,Junior,Non-Urban,Medium
+2021,26,System Administrator,,MBO,5.0,3000.0,36000.0,Low,1995,Junior,Non-Urban,Low
+2021,26,Software Engineer,Eindhoven,WO,1.0,3650.0,43800.0,High,1995,Junior,Non-Urban,Medium
+2021,26,Data Scientist,Randstad,WO,1.0,3400.0,40800.0,High,1995,Junior,Urban,Medium
+2021,26,Mobile Device Management Consultant,,HBO,6.0,3505.0,42060.0,Medium,1995,Mid-level,Non-Urban,Medium
+2021,26,Support Engineer,Gelderland,MBO,5.0,2050.0,24600.0,Low,1995,Junior,Non-Urban,Low
+2021,26,Front-end Developer,Gelderland,HBO,3.0,3300.0,39600.0,Medium,1995,Junior,Non-Urban,Medium
+2021,26,IT Consultant,,WO,0.0,2650.0,31800.0,High,1995,Junior,Non-Urban,Low
+2021,26,BI Consultant,,HBO,4.0,3200.0,38400.0,Medium,1995,Junior,Non-Urban,Medium
+2021,26,Software Engineer,Eindhoven,HBO,1.0,2250.0,27000.0,Medium,1995,Junior,Non-Urban,Low
+2021,26,Support Engineer,Zwolle,MBO,5.0,2800.0,33600.0,Low,1995,Junior,Non-Urban,Low
+2021,26,Software Engineer,Rotterdam,HBO,1.0,2500.0,30000.0,Medium,1995,Junior,Non-Urban,Low
+2021,26,Software Engineer,Delft,WO,1.0,2920.0,35040.0,High,1995,Junior,Non-Urban,Low
+2021,26,Software Engineer,Zuid-Holland,MBO,5.0,2200.0,26400.0,Low,1995,Junior,Non-Urban,Low
+2021,26,Lead Developer,Nijmegen,Unknown,2.0,2800.0,33600.0,Low,1995,Junior,Non-Urban,Low
+2021,26,Software Engineer,Amsterdam,WO,1.0,2450.0,29400.0,High,1995,Junior,Urban,Low
+2021,26,Software Engineer,Hengelo,HBO,3.0,3460.0,41520.0,Medium,1995,Junior,Non-Urban,Medium
+2021,26,Product Owner,Utrecht,HBO,5.0,4500.0,54000.0,Medium,1995,Junior,Urban,Medium
+2021,26,System Administrator,Utrecht,MBO,6.0,3000.0,36000.0,Low,1995,Mid-level,Urban,Low
+2021,25,Software Engineer,Amsterdam,HBO,2.0,2376.0,28512.0,Medium,1996,Junior,Urban,Low
+2021,25,Werkplekbeheerder,,MBO,7.0,3350.0,40200.0,Low,1996,Mid-level,Non-Urban,Medium
+2021,25,Embedded Engineer,Gooi,HBO,3.0,2850.0,34200.0,Medium,1996,Junior,Non-Urban,Low
+2021,25,Cloud Engineer,Amsterdam,MBO,6.0,3556.0,42672.0,Low,1996,Mid-level,Urban,Medium
+2021,25,Software Engineer,Utrecht,HBO,2.0,2914.0,34968.0,Medium,1996,Junior,Urban,Low
+2021,25,Support Engineer,,HBO,0.0,2600.0,31200.0,Medium,1996,Junior,Non-Urban,Low
+2021,25,Project Management Officer,,HBO,0.0,2277.0,27324.0,Medium,1996,Junior,Non-Urban,Low
+2021,25,Consultant Trainee,Utrecht,HBO,0.0,2900.0,34800.0,Medium,1996,Junior,Urban,Low
+2021,25,Front-end Developer,Eindhoven,MBO,4.0,3150.0,37800.0,Low,1996,Junior,Non-Urban,Medium
+2021,25,Test Automation Engineer,,WO,1.0,3363.0,40356.0,High,1996,Junior,Non-Urban,Medium
+2021,25,Network Administrator,Haarlem,MBO,6.0,3920.0,47040.0,Low,1996,Mid-level,Non-Urban,Medium
+2021,25,IT Consultant,Utrecht,Unknown,1.0,2500.0,30000.0,Low,1996,Junior,Urban,Low
+2021,25,Support Engineer,Amsterdam,MBO,3.0,3300.0,39600.0,Low,1996,Junior,Urban,Medium
+2021,25,Servicedeskmedewerker,Noord Holland,MBO,3.0,2250.0,27000.0,Low,1996,Junior,Non-Urban,Low
+2021,25,Cloud Engineer,Noord-Holland,HBO,5.0,5417.0,65004.0,Medium,1996,Junior,Non-Urban,High
+2021,25,Cloud Engineer,Gelderland,HBO,3.0,2600.0,31200.0,Medium,1996,Junior,Non-Urban,Low
+2021,25,Software Engineer,Hengelo,HBO,1.0,2650.0,31800.0,Medium,1996,Junior,Non-Urban,Low
+2021,25,QA Engineer,,HBO,2.0,3664.0,43968.0,Medium,1996,Junior,Non-Urban,Medium
+2021,25,Software Engineer,Gelderland,HBO,0.0,2800.0,33600.0,Medium,1996,Junior,Non-Urban,Low
+2021,25,Software Engineer,Rotterdam,WO,0.0,3186.0,38232.0,High,1996,Junior,Non-Urban,Medium
+2021,24,Lead Developer,ZH,HBO,5.0,3250.0,39000.0,Medium,1997,Junior,Non-Urban,Medium
+2021,24,System Administrator,,MBO,5.0,2592.0,31104.0,Low,1997,Junior,Non-Urban,Low
+2021,24,System Administrator,,HBO,0.0,2650.0,31800.0,Medium,1997,Junior,Non-Urban,Low
+2021,24,Servicedeskmedewerker,Utrecht,Unknown,1.0,2200.0,26400.0,Low,1997,Junior,Urban,Low
+2021,24,Research Engineer,Amsterdam,WO,1.0,5000.0,60000.0,High,1997,Junior,Urban,Medium
+2021,24,Software Engineer,Eindhoven,MBO,5.0,2950.0,35400.0,Low,1997,Junior,Non-Urban,Low
+2021,24,Front-end Developer,,HBO,0.0,2600.0,31200.0,Medium,1997,Junior,Non-Urban,Low
+2021,24,Software Engineer,,HBO,2.0,2600.0,31200.0,Medium,1997,Junior,Non-Urban,Low
+2021,24,Front-end Developer,Rotterdam,HBO,1.0,1900.0,22800.0,Medium,1997,Junior,Non-Urban,Low
+2021,23,Cloud Engineer,Eindhoven,HBO,2.0,2725.0,32700.0,Medium,1998,Junior,Non-Urban,Low
+2021,23,System Administrator,Winterswijk,MBO,1.0,1853.0,22236.0,Low,1998,Junior,Non-Urban,Low
+2021,23,System Administrator,Amsterdam,MBO,3.0,2300.0,27600.0,Low,1998,Junior,Urban,Low
+2021,23,Low Code Developer,,HBO,2.0,3700.0,44400.0,Medium,1998,Junior,Non-Urban,Medium
+2021,23,Helpdeskmedewerker,,MBO,0.0,2550.0,30600.0,Low,1998,Junior,Non-Urban,Low
+2021,23,Data Scientist,Randstad,WO,0.0,3750.0,45000.0,High,1998,Junior,Urban,Medium
+2021,23,System Administrator,Arnhem,MBO,0.0,2375.0,28500.0,Low,1998,Junior,Non-Urban,Low
+2021,22,Software Engineer,Hengelo,HBO,0.0,2850.0,34200.0,Medium,1999,Junior,Non-Urban,Low
+2021,22,Software Engineer,Arnhem,HBO,0.0,2500.0,30000.0,Medium,1999,Junior,Non-Urban,Low
+2021,21,Software Engineer,Breda,MBO,1.0,2385.0,28620.0,Low,2000,Junior,Non-Urban,Low
